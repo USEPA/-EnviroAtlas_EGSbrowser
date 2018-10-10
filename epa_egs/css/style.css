@@ -1,0 +1,533 @@
+/*
+Original Author: Chris Willard
+OriginalAuthor URI: http://wllrd.com
+Template:       oxygen
+Version:        1
+*/
+
+/*
+*
+***** start of oxygenstyle ****
+*
+* NOTE: the majority of this CSS is remnants from the original source of the D3 code.
+*       it would be best to remove all the unused CSS
+*/
+
+/**
+Theme Name: Oxygen
+Theme URI: http://alienwp.com/themes/oxygen/
+Description: Oxygen is a minimalistic, mobile-optimized magazine theme with responsive layout. 
+The main features include a featured content slider, custom front page template, 5 widget areas, and 3 menus.
+Version: 0.6.0
+Author: AlienWP
+Author URI: http://alienwp.com
+Tags: grid-layout, footer-widgets, blog, photography, threaded-comments, microformats, translation-ready, 
+	rtl-language-support, three-columns, right-sidebar, left-sidebar, custom-background, featured-images
+License: GNU General Public License v2.0
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: oxygen
+Domain Path: /languages/
+ */
+
+/* Normalize
+-------------------------------------------------------------- */
+
+html {
+	font-size: 1em;	/* 16px */
+	overflow-y: scroll;
+	-webkit-text-size-adjust: 100%;
+	-ms-text-size-adjust: 100%;
+}
+body {
+	margin: 0;
+	font: 0.75em/1.75em 'Helvetica Neue', Helvetica, Arial, sans-serif;	/* 12 / 16 = 0.75;  21 / 12 = 1.75 */
+	color: #444;
+	background: #fff;
+	padding: 0;
+}
+::-moz-selection {
+	background: #000;
+	color: #fff;
+	text-shadow: none;
+}
+::selection {
+	background: #000;
+	color: #fff;
+	text-shadow: none;
+}
+a, a:visited {
+	color: #0da4d3;
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: none;
+	color: #000;
+	border-bottom: 1px solid #0da4d3;
+}
+a:focus { outline: none; }
+a:hover, a:active { outline: 0; }
+
+
+
+
+p { margin: 0 0 1.75em 0 }
+b, strong { font-weight: bold; }
+
+dfn { font-style: italic; }
+
+hr {
+	display: block;
+	height: 1px;
+	border: 0;
+	border-top: 1px solid #ccc;
+	margin: 1em 0 1.75em 0;
+	padding: 0;
+}
+
+sub, sup {
+	font-size: 0.8333333333333333em;	/* 10 / 12 = 0.8333333333333333 */
+	line-height: 0;
+	position: relative;
+	vertical-align: baseline;
+}
+sup { top: -0.5em; }
+sub { bottom: -0.25em; }
+ul {
+	list-style: circle;
+	margin: 0 0 1.75em 2.8em;
+	padding: 0;
+}
+ol {
+	list-style-type: decimal;
+	margin: 0 0 1.75em 3.1em;
+	padding: 0;
+}
+
+dl { margin: 0 0 1.75em 5px }
+dt {
+	font-weight: bold;
+	margin: 10px 0 0 0
+}
+dd { margin: 5px 0 0 1.5em }
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Abel', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	margin: 0 0 15px 0;
+	color: #333;
+	line-height: 1.3em;
+}
+h1 { font-size: 3em; }	/* 36 / 12 = 3 */
+h2 { font-size: 2em; }	/* 24 / 12 = 2 */
+h3 { font-size: 1.666666666666667em; }	/* 20 / 12 = 1.666666666666667 */
+
+img {
+	border: 0;
+	-ms-interpolation-mode: bicubic;
+	vertical-align: middle;
+}
+svg:not(:root) { overflow: hidden; }
+form { margin: 0; }
+fieldset {
+	border: 0;
+	margin: 0;
+	padding: 0;
+}
+label { cursor: pointer; }
+legend {
+	border: 0;
+	*margin-left: -7px;
+	padding: 0;
+}
+button, input, select, textarea, a.button {
+	font-size: 1em;
+	margin: 0;
+	vertical-align: baseline;
+	*vertical-align: middle;
+}
+button, input, a.button {
+	line-height: normal;
+	*overflow: visible;
+}
+table button, table input { *overflow: auto; }
+button, input[type="button"], input[type="reset"], input[type="submit"] {
+	cursor: pointer;
+	-webkit-appearance: button;
+}
+input[type="checkbox"], input[type="radio"] { box-sizing: border-box; }
+input[type="search"] {
+	-webkit-appearance: textfield;
+	-moz-box-sizing: content-box;
+	-webkit-box-sizing: content-box;
+	box-sizing: content-box;
+}
+
+
+
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+	margin-bottom: 1.75em;
+}
+td { vertical-align: top; }
+th, td { text-align: left; }
+
+/* Transitions 
+-------------------------------------------------------------- */
+a, a img, .featured-post .byline {
+	-webkit-transition: all 0.18s ease-out;
+	-moz-transition: all 0.18s ease-out;
+	-ms-transition: all 0.18s ease-out;
+	-o-transition: all 0.18s ease-out;
+	transition: all 0.18s ease-out;
+}
+
+
+/* Tables 
+-------------------------------------------------------------- */
+table {
+	margin: 0 0 1.75em 0;
+	width: 100%;
+
+	font-size: 0.9166666666666667em;
+	line-height: 1.75em;
+	font-weight: normal;
+	/* background: rgba(76, 175, 80, 0.3); */
+	/*padding: 10px 2%;
+	border-bottom: none;*/
+	/*border-bottom: 1px solid #ddd;*/
+	
+	text-align: left;
+	border-collapse: collapse;
+
+
+	/* border-radius: 10px; */
+	-moz-border-radius:10px;
+	border: 1px solid black;
+}
+th {
+	font-size: 0.9166666666666667em;
+
+	font-weight: bold;
+	text-transform: uppercase;
+	/*border: 1px solid black;*/
+	text-align: center;
+	border-collapse: collapse;
+}
+td {
+	/*padding: 0.8125em 2%;*/
+	/*color: #888; */
+	/*border-bottom: 1px solid #000;*/
+	border: 1px solid black;
+}
+
+/* Lists 
+-------------------------------------------------------------- */
+ul li, ol li { line-height: 2.1em; }
+dl { margin: 0 0 20px 30px; }
+dl dt {
+	margin: 0;
+	font-size: 1.333333333333333em;		/* 16 / 12 = 1.333333333333333 */
+	line-height: 1.75em;
+	font-family: 'Abel', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-weight: normal;
+}
+dl dd {
+	margin: 0 0 5px 20px;
+	padding: 0;
+	color: #888;
+}
+
+
+
+/* Layout
+-------------------------------------------------------------- */
+#main {
+	clear: both;
+	width: 98%;
+	height: 98%;
+	margin: 0 auto;
+	position: relative;
+/*	border-style: solid; 
+	border-color: red; */
+}
+
+#bg {
+	clear: both;
+	width: 90%;
+	margin: 0 auto;
+	position: relative;
+	border-style: solid; 
+	border-color: purple;
+	background: red;
+}
+
+.page-template-fullwidth #content { width: 100%; }
+
+.wrap {
+	/* max-width: 1350px; */
+	margin: 0 auto;
+	position: relative;
+}
+
+/* Header 
+-------------------------------------------------------------- */
+#header {
+	clear: both;
+	width: 100%;
+	float: left;
+	padding: 40px 0 0 0;
+}
+
+#site-title {
+	font-family: 'Abel', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-size: 16px;
+	margin-left: 25px;
+	text-transform: uppercase;
+	word-wrap: break-word;
+}
+#site-title a {
+	color: #222;
+	border-bottom: none;
+}
+#header img { max-width: 100%; }
+
+/* Footer 
+-------------------------------------------------------------- */
+#footer {
+	overflow: hidden;
+	clear: both;
+	
+	width: 100%;
+	margin: 0 auto;
+	padding: 5px 0 0 0;
+	
+	font-size: 0.9166666666666667em;
+	color: #aaa;
+}
+#footer p { margin-bottom: 0; }
+#footer a { color: #888; }
+#footer a:hover { color: #333; }
+#footer-content {
+	float: right;
+	width: 30%;
+	margin-right: 25px;
+}
+
+/****** end of oxygenstyle   *****/
+
+
+/* override style stuff */
+
+#header {
+  position: relative;
+  margin: 10px 0;
+  padding-top: 0;
+}
+
+#header img {
+  right: 0;
+}
+
+#menu-primary {
+  width: auto;
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  margin-top: -10px;
+  right: 0;
+}
+
+#footer-content {
+  width: 100%;
+}
+#footer .copyright {
+  float: right;
+}
+
+/* standard */
+a.btn {
+  background-color: #0da4d3;
+  color: #fff !important;
+  font-weight: bold;
+  text-transform: uppercase;
+  padding: 4px 10px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+a.btn:hover, a.btn.active {
+  color: #fff;
+  background-color: #000;
+  border: none;
+}
+
+#controls {
+  margin-top: 20px;
+  width: 750px;
+}
+#controls .btn {
+  position: relative;
+  float: right;
+  margin-left: 10px;
+  z-index: 99;
+}
+
+/* map */
+svg {
+	 font-family: Abel,"Helvetica Neue",Helvetica,Arial,sans-serif;
+	 font-size: 8px;
+}
+
+
+
+
+path {
+  fill: none;
+}
+
+
+.selection-info {
+	position: relative;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	padding: 6px;
+	
+	min-height: 19px;
+	
+	border-style: solid;
+	border-color: #c0c0c0;
+	border-radius: 3px;
+	border-width: .5px;
+	z-index: 10;
+}
+
+
+/*jab - start moved from index.html */
+
+/* Font size. */
+html { font-size: 16px; }
+
+/* Font family. */
+h1, h2, h3, h4, h5, h6, dl dt, blockquote, blockquote blockquote blockquote, #site-title, #menu-primary li a { 
+	font-family: 'Abel', serif; 
+}
+
+/* Link color. */
+a, a:visited, .entry-title a:visited { color: #0da4d3; }
+.button, a.button,  { background-color: #0da4d3; }
+a:hover, a:focus { color: #000; }
+.button:hover, a.button:hover, .button-primary:hover { background-color: #111; }
+
+/* Custom CSS. */
+.node rect {
+	cursor: pointer;
+	fill: #fff;
+	/* fill-opacity: .8; */
+}
+
+.node text {
+	font: 11px sans-serif;
+	pointer-events: none;
+}
+
+.bold_text{
+	font-size: 13px !important;
+	font-weight: bold !important;
+}
+
+/* the text doesn't get the pointer-event - the .node does */
+.node:hover  text{
+	font-weight: bold;
+}
+
+.node rect a:hover {
+	fill: #000 !important;
+}
+
+path.link {
+	fill: none;
+	
+	stroke-width: 1.5px;
+}
+
+#content {
+	align: left;
+	stroke-width: .5px;
+	display: flex;
+}
+
+#left_panel {
+	width: 36%;
+	overflow-y:auto;
+	border-style: solid; 
+	border-color: black;
+	border-width: .5px;
+	float: left;
+}
+
+#collapsible_indented_tree {
+	float: left;
+}
+
+#center_panel {
+	width: 32%;
+	overflow-y:auto;
+}
+
+.header_line::after {
+	content: "\2212";
+	color: white;
+	font-weight: bold;
+	float: right;
+	margin-left: 5px;
+}
+
+.header_line.closed::after {
+	content: '\002B';
+	color: white;
+}
+
+.literature_indent {
+	padding-left: 5px;
+	padding-right: 10px;
+	width: 95%;
+	margin-left: 5px;
+	margin-right: 5px;
+}
+
+.open {
+	height: 100%;
+}
+
+#right_panel {
+	margin-left: 5px;
+	width:32%;
+	overflow-y:auto;
+}
+
+#legend {
+	width: 300px;
+	overflow-y:auto;
+	border-style: solid; 
+	border-color: black;
+	border-width: 1px;
+	float: left;
+	position: absolute;
+	height: 165px;
+	bottom: 10px;
+	padding: 5px;
+}
+
+.legend_item {
+	width: 250px;	
+	height: 22px;
+	border-radius: 3px;
+	margin-bottom: 1px;
+	font-size: 11px;
+	font-style: sans-serif;
+	
+
+}
+
+/*jab - end moved from index.html */

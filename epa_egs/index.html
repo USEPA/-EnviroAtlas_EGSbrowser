@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+
+<!--
+	U.S. Environmental Protection Agency - Ecosystem Goods and Services (egs)
+	
+
+	Jimmy Bisese
+	Tetra Tech, Inc.
+	2018-March-29
+	
+-->
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		
+	<!-- Mobile viewport optimized -->
+	<meta name="viewport" content="width=device-width,initial-scale=1">
+	
+	<link rel="shortcut icon" href="https://www.epa.gov/sites/all/themes/epa/favicon.ico" type="image/vnd.microsoft.icon" />
+	
+	<link rel='stylesheet' id='style-css'  href='css/style.css' type='text/css' media='all' />
+	<link rel='stylesheet' id='font-abel-css'  href='https://fonts.googleapis.com/css?family=Abel&#038;ver=1' type='text/css' media='screen' />
+
+	<!-- Title -->
+	<title>Ecosystem Goods & Services</title>
+	
+	<script type="text/javascript" src="//d3js.org/d3.v3.min.js" charset="utf-8"></script>
+	<script type='text/javascript' src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js'></script>
+</head>
+
+<body>
+	<div id="container">
+		<div class="wrap">
+		
+			<div id="header">
+				<div id="branding">
+					<div id="site-title">
+						<a href="" title="EnviroAtlas Benefit Categories" rel="Home">#site_title#</a>
+					</div>
+				</div>
+			</div>
+			
+			<div id="main">
+				<div id="content">
+				
+					<div id="left_panel">
+						<div id="collapsible_indented_tree"></div>
+					</div>
+
+					<div id="center_panel" style="margin-left: 5px;">
+ 						<div id="benefit_category-info" class="selection-info" style="visibility: hidden">Benefit Category</div>
+						<div id="ecosystem_type-info" class="selection-info" style="visibility: hidden">Ecosystem Type</div>
+						<div id="contribution_pathway-info" class="selection-info" style="visibility: hidden;">Contribution Pathway</div>
+						<div id="benefit_type-info" class="selection-info" style="visibility: hidden;">Benefit Type</div>
+					</div>
+					
+					<div id="right_panel">
+						<div id="data_layer-info" class="selection-info" style="visibility: hidden;">Data Layer</div>
+						<div id="legend"  style="visibility: hidden;"></div>
+					</div>
+					
+				</div>
+			</div>
+			
+			<!-- this has to be set here.  this way it is loaded at the correct time - after the page is loaded -->
+			<script src="index.js"></script>
+		</div>
+		
+		<div id="footer">
+			<div id="footer-content">
+				<div class="copyright">
+				<div>Ecosystem Goods &amp; Services</div>
+				<div>DRAFT 2018-08-14 Tetra Tech, Inc. for U.S. Environmental Protection Agency</div>
+				</div>
+			</div>
+		</div>
+		
+	</div>
+</body>

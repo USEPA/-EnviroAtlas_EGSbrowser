@@ -1,0 +1,192 @@
+﻿Benefit_Category,Ecosystem_Types,Data_Layers,Materials,Nutrition,Energy,Mediation_of_Nuisances,Mediation_of_Flows,Maintenance_of_Conditions,Experiences,Interactions_with_Ecosystems
+Clean and Plentiful Waters,Rivers and Streams,Agricultural water use (million gallons/day),demander,,,driver,driver,driver,driver,driver
+Clean and Plentiful Waters,Rivers and Streams,Domestic water use (million gallons/day),demander,,,driver,driver,driver,driver,driver
+Clean and Plentiful Waters,Rivers and Streams,Industrial water use (million gallons/day),demander,,,driver,driver,driver,driver,driver
+Clean and Plentiful Waters,Rivers and Streams,Manure application (kg N/ha/yr),,,,driver,,driver,driver,driver
+Clean and Plentiful Waters,Rivers and Streams,Number of aquatic animal species,,,,supplier,supplier,supplier,supplier,supplier
+Clean and Plentiful Waters,Rivers and Streams,Number of aquatic plant species,,,,supplier,supplier,supplier,supplier,supplier
+Clean and Plentiful Waters,Rivers and Streams,Percent forest and wood wetlands in buffer,,,,supplier,supplier,supplier,supplier,supplier
+Clean and Plentiful Waters,Rivers and Streams,Percent forest in buffer,,,,supplier,supplier,supplier,supplier,supplier
+Clean and Plentiful Waters,Rivers and Streams,Percent impervious area,driver,,,driver,driver,driver,driver,driver
+Clean and Plentiful Waters,Rivers and Streams,Percent natural land cover in buffer,,,,supplier,supplier,supplier,supplier,supplier
+Clean and Plentiful Waters,Rivers and Streams,Stream density (km/km2),supplier,,,supplier,supplier,supplier,supplier,supplier
+Clean and Plentiful Waters,Rivers and Streams,Stream length (km),supplier,,,supplier,supplier,supplier,supplier,supplier
+Clean and Plentiful Waters,Rivers and Streams,Stream length impaired by metals (km),driver,,,driver,,driver,driver,driver
+Clean and Plentiful Waters,Rivers and Streams,Stream length impaired by nutrients (km),driver,,,driver,,driver,driver,driver
+Clean and Plentiful Waters,Rivers and Streams,Stream length impaired for biota (km),driver,,,driver,,driver,driver,driver
+Clean and Plentiful Waters,Rivers and Streams,Stream length impaired for temperature (km),driver,,,driver,,driver,driver,driver
+Clean and Plentiful Waters,Rivers and Streams,Sulfur dry deposition (kg/ha),driver,,,driver,,driver,driver,driver
+Clean and Plentiful Waters,Rivers and Streams,Sulfur wet deposition (kg/ha),driver,,,driver,,driver,driver,driver
+Clean and Plentiful Waters,Rivers and Streams,Thermoelectric water use (million gallons/day),demander,,demander,driver,driver,driver,driver,driver
+Clean and Plentiful Waters,Rivers and Streams,Total number of aquatic species,,,,supplier,supplier,supplier,supplier,supplier
+Clean and Plentiful Waters,Rivers and Streams,Total sulfur deposition (kg/ha),driver,,,driver,,driver,driver,driver
+Clean and Plentiful Waters,Wetlands,Agricultural water use (million gallons/day),demander,,,driver,driver,driver,driver,driver
+Clean and Plentiful Waters,Wetlands,Manure application (kg N/ha/yr),,,,driver,,driver,driver,driver
+Clean and Plentiful Waters,Wetlands,Number of aquatic animal species,,,,supplier,supplier,supplier,supplier,supplier
+Clean and Plentiful Waters,Wetlands,Number of aquatic plant species,,,,supplier,supplier,supplier,supplier,supplier
+Clean and Plentiful Waters,Wetlands,Number of terrestrial animal species,,,,supplier,supplier,supplier,supplier,supplier
+Clean and Plentiful Waters,Wetlands,Number of terrestrial plant species,,,,supplier,supplier,supplier,supplier,supplier
+Clean and Plentiful Waters,Wetlands,Oxidized nitrogen dry deposition (kg/ha),,,,driver,,driver,driver,driver
+Clean and Plentiful Waters,Wetlands,Oxidized nitrogen wet deposition (kg/ha),,,,driver,,driver,driver,driver
+Clean and Plentiful Waters,Wetlands,Percent agriculture on hydric soil,driver,,,driver,driver,driver,driver,driver
+Clean and Plentiful Waters,Wetlands,Percent agriculture on wet areas (wetness index > 550),driver,,,driver,driver,driver,driver,driver
+Clean and Plentiful Waters,Wetlands,Percent cropland,,,,driver,driver,driver,driver,driver
+Clean and Plentiful Waters,Wetlands,Percent developed land on wet areas (wetness index > 550),driver,,,driver,driver,driver,driver,driver
+Clean and Plentiful Waters,Wetlands,Percent emergent herbaceous wetlands,supplier,,,supplier,supplier,supplier,supplier,supplier
+Clean and Plentiful Waters,Wetlands,Percent forest and wood wetlands in buffer,supplier,,,supplier,supplier,supplier,supplier,supplier
+Clean and Plentiful Waters,Wetlands,Percent forest and woody wetlands,supplier,,,supplier,supplier,supplier,supplier,supplier
+Clean and Plentiful Waters,Wetlands,Percent forest on wet areas (wetness index > 550),supplier,,,supplier,supplier,supplier,supplier,supplier
+Clean and Plentiful Waters,Wetlands,Percent natural land cover,,,,supplier,supplier,supplier,supplier,supplier
+Clean and Plentiful Waters,Wetlands,Percent natural land cover in buffer,,,,supplier,supplier,supplier,supplier,supplier
+Clean and Plentiful Waters,Wetlands,Percent potentially restorable wetlands,driver,,,driver,driver,driver,driver,driver
+Clean and Plentiful Waters,Wetlands,Percent range on wet areas (wetness index > 550),driver,,,driver,driver,driver,driver,driver
+Clean and Plentiful Waters,Wetlands,Percent wetlands,supplier,,,supplier,supplier,supplier,supplier,supplier
+Clean and Plentiful Waters,Wetlands,Percent wetlands on wet areas (CTI > 550),supplier,,,supplier,supplier,supplier,supplier,supplier
+Clean and Plentiful Waters,Wetlands,Reduced nitrogen dry deposition (kg/ha),driver,,,driver,,driver,driver,driver
+Clean and Plentiful Waters,Wetlands,Reduced nitrogen wet deposition (kg/ha),driver,,,driver,,driver,driver,driver
+Clean and Plentiful Waters,Wetlands,Sulfur dry deposition (kg/ha),driver,,,driver,,driver,driver,driver
+Clean and Plentiful Waters,Wetlands,Sulfur wet deposition (kg/ha),driver,,,driver,,driver,driver,driver
+Clean and Plentiful Waters,Wetlands,Total nitrogen deposition,driver,,,driver,,driver,driver,driver
+Clean and Plentiful Waters,Wetlands,Total number of aquatic species,,,,supplier,supplier,supplier,supplier,supplier
+Clean and Plentiful Waters,Wetlands,Total number of terrestrial species,,,,supplier,supplier,supplier,supplier,supplier
+Clean and Plentiful Waters,Wetlands,Total number of wetland species,,,,supplier,supplier,supplier,supplier,supplier
+Clean and Plentiful Waters,Wetlands,Total oxidized nitrogen deposition (kg/ha),driver,,,driver,,driver,driver,driver
+Clean and Plentiful Waters,Wetlands,Total reduced nitrogen deposition (kg/ha),driver,,,driver,,driver,driver,driver
+Clean and Plentiful Waters,Wetlands,Total sulfur deposition (kg/ha),driver,,,driver,,driver,driver,driver
+Clean and Plentiful Waters,Lakes and Ponds,Agricultural water use (million gallons/day),demander,,,driver,driver,driver,driver,driver
+Clean and Plentiful Waters,Lakes and Ponds,Domestic water use (million gallons/day),demander,,,driver,driver,driver,driver,driver
+Clean and Plentiful Waters,Lakes and Ponds,Industrial water use (million gallons/day),demander,,,driver,driver,driver,driver,driver
+Clean and Plentiful Waters,Lakes and Ponds,Manure application (kg N/ha/yr),driver,,,driver,,driver,driver,driver
+Clean and Plentiful Waters,Lakes and Ponds,Number of aquatic animal species,,,,supplier,supplier,supplier,supplier,supplier
+Clean and Plentiful Waters,Lakes and Ponds,Number of aquatic plant species,,,,supplier,supplier,supplier,supplier,supplier
+Clean and Plentiful Waters,Lakes and Ponds,Percent forest and wood wetlands in buffer,supplier,,,supplier,supplier,supplier,supplier,supplier
+Clean and Plentiful Waters,Lakes and Ponds,Percent forest in buffer,,,,supplier,supplier,supplier,supplier,supplier
+Clean and Plentiful Waters,Lakes and Ponds,Percent impervious area,driver,,,driver,driver,driver,driver,driver
+Clean and Plentiful Waters,Lakes and Ponds,Percent natural land cover in buffer,,,,supplier,supplier,supplier,supplier,supplier
+Clean and Plentiful Waters,Lakes and Ponds,Sulfur dry deposition (kg/ha),driver,,,driver,,driver,driver,driver
+Clean and Plentiful Waters,Lakes and Ponds,Sulfur wet deposition (kg/ha),driver,,,driver,,driver,driver,driver
+Clean and Plentiful Waters,Lakes and Ponds,Thermoelectric water use (million gallons/day),demander,,demander,driver,driver,driver,driver,driver
+Clean and Plentiful Waters,Lakes and Ponds,Total number of aquatic species,,,,supplier,supplier,supplier,supplier,supplier
+Clean and Plentiful Waters,Lakes and Ponds,Total sulfur deposition (kg/ha),driver,,,driver,,driver,driver,driver
+Clean and Plentiful Waters,Estuaries and Near Coastal Marine,Industrial water use (million gallons/day),demander,,,driver,driver,driver,driver,driver
+Clean and Plentiful Waters,Estuaries and Near Coastal Marine,Number of aquatic animal species,,,,supplier,supplier,supplier,supplier,supplier
+Clean and Plentiful Waters,Estuaries and Near Coastal Marine,Manure application (kg N/ha/yr),driver,,,driver,,driver,driver,driver
+Clean and Plentiful Waters,Estuaries and Near Coastal Marine,Number of aquatic plant species,,,,supplier,supplier,supplier,supplier,supplier
+Clean and Plentiful Waters,Estuaries and Near Coastal Marine,Sulfur dry deposition (kg/ha),driver,,,driver,,driver,driver,driver
+Clean and Plentiful Waters,Estuaries and Near Coastal Marine,Sulfur wet deposition (kg/ha),driver,,,driver,,driver,driver,driver
+Clean and Plentiful Waters,Estuaries and Near Coastal Marine,Thermoelectric water use (million gallons/day),demander,,demander,driver,driver,driver,driver,driver
+Clean and Plentiful Waters,Estuaries and Near Coastal Marine,Total number of aquatic species,,,,supplier,supplier,supplier,supplier,supplier
+Clean and Plentiful Waters,Estuaries and Near Coastal Marine,Total sulfur deposition (kg/ha),driver,,,driver,,driver,driver,driver
+Clean and Plentiful Waters,Open Oceans and Seas,Industrial water use (million gallons/day),demander,,,driver,driver,driver,driver,driver
+Clean and Plentiful Waters,Open Oceans and Seas,Number of aquatic animal species,,,,supplier,supplier,supplier,supplier,supplier
+Clean and Plentiful Waters,Open Oceans and Seas,Number of aquatic plant species,,,,supplier,supplier,supplier,supplier,supplier
+Clean and Plentiful Waters,Open Oceans and Seas,Thermoelectric water use (million gallons/day),demander,,demander,driver,driver,driver,driver,driver
+Clean and Plentiful Waters,Open Oceans and Seas,Total number of aquatic species,,,,supplier,supplier,supplier,supplier,supplier
+Clean and Plentiful Waters,Groundwater,Agricultural water use (million gallons/day),demander,,,driver,driver,driver,driver,driver
+Clean and Plentiful Waters,Groundwater,Domestic water use (million gallons/day),demander,,,driver,driver,driver,driver,driver
+Clean and Plentiful Waters,Groundwater,Industrial water use (million gallons/day),demander,,,driver,driver,driver,driver,driver
+Clean and Plentiful Waters,Groundwater,Manure application (kg N/ha/yr),driver,,,driver,driver,driver,driver,driver
+Clean and Plentiful Waters,Groundwater,Number of aquatic animal species,,,,supplier,supplier,supplier,supplier,supplier
+Clean and Plentiful Waters,Groundwater,Number of aquatic plant species,,,,supplier,supplier,supplier,supplier,supplier
+Clean and Plentiful Waters,Groundwater,Thermoelectric water use (million gallons/day),demander,,,driver,driver,driver,driver,driver
+Clean and Plentiful Waters,Groundwater,Total number of aquatic species,,,,supplier,supplier,supplier,supplier,supplier
+Clean and Plentiful Waters,Forests,Number of terrestrial animal species,,,,supplier,supplier,supplier,,
+Clean and Plentiful Waters,Forests,Number of terrestrial plant species,,,,supplier,supplier,supplier,,
+Clean and Plentiful Waters,Forests,Oxidized nitrogen dry deposition (kg/ha),,,,driver,,driver,,
+Clean and Plentiful Waters,Forests,Oxidized nitrogen wet deposition (kg/ha),,,,driver,,driver,,
+Clean and Plentiful Waters,Forests,Percent forest,,,,supplier,supplier,supplier,,
+Clean and Plentiful Waters,Forests,Percent forest and wood wetlands in buffer,supplier,,,supplier,supplier,supplier,supplier,supplier
+Clean and Plentiful Waters,Forests,Percent forest and woody wetlands,supplier,,,supplier,supplier,supplier,supplier,supplier
+Clean and Plentiful Waters,Forests,Percent forest in buffer,,,,supplier,supplier,supplier,,
+Clean and Plentiful Waters,Forests,Percent natural land cover,,,,supplier,supplier,supplier,,
+Clean and Plentiful Waters,Forests,Percent natural land cover in buffer,,,,supplier,supplier,supplier,,
+Clean and Plentiful Waters,Forests,Reduced nitrogen dry deposition (kg/ha),,,,driver,,driver,,
+Clean and Plentiful Waters,Forests,Reduced nitrogen wet deposition (kg/ha),,,,driver,,driver,,
+Clean and Plentiful Waters,Forests,Sulfur dry deposition (kg/ha),,,,driver,,driver,,
+Clean and Plentiful Waters,Forests,Sulfur wet deposition (kg/ha),,,,driver,,driver,,
+Clean and Plentiful Waters,Forests,Total nitrogen deposition,,,,driver,,driver,,
+Clean and Plentiful Waters,Forests,Total number of terrestrial species,,,,supplier,supplier,supplier,,
+Clean and Plentiful Waters,Forests,Total oxidized nitrogen deposition (kg/ha),,,,driver,,driver,,
+Clean and Plentiful Waters,Forests,Total reduced nitrogen deposition (kg/ha),,,,driver,,driver,,
+Clean and Plentiful Waters,Forests,Total sulfur deposition (kg/ha),,,,driver,,driver,,
+Clean and Plentiful Waters,Agroecosystems,Manure application (kg N/ha/yr),driver,,,driver,driver,driver,,
+Clean and Plentiful Waters,Agroecosystems,Number of terrestrial animal species,,,,supplier,supplier,supplier,,
+Clean and Plentiful Waters,Agroecosystems,Number of terrestrial plant species,,,,supplier,supplier,supplier,,
+Clean and Plentiful Waters,Agroecosystems,Oxidized nitrogen dry deposition (kg/ha),,,,driver,,driver,,
+Clean and Plentiful Waters,Agroecosystems,Oxidized nitrogen wet deposition (kg/ha),,,,driver,,driver,,
+Clean and Plentiful Waters,Agroecosystems,Percent agriculture on hydric soil,,,,driver,driver,driver,,
+Clean and Plentiful Waters,Agroecosystems,Percent agriculture on wet areas (wetness index > 550),,,,driver,driver,driver,,
+Clean and Plentiful Waters,Agroecosystems,Percent cropland,,,,driver,driver,driver,,
+Clean and Plentiful Waters,Agroecosystems,Percent forest,,,,supplier,supplier,supplier,,
+Clean and Plentiful Waters,Agroecosystems,Percent forest and wood wetlands in buffer,supplier,,,supplier,supplier,supplier,supplier,supplier
+Clean and Plentiful Waters,Agroecosystems,Percent forest and woody wetlands,supplier,,,supplier,supplier,supplier,supplier,supplier
+Clean and Plentiful Waters,Agroecosystems,Percent forest in buffer,,,,supplier,supplier,supplier,,
+Clean and Plentiful Waters,Agroecosystems,Percent pasture,,,,driver,driver,driver,,
+Clean and Plentiful Waters,Agroecosystems,Reduced nitrogen dry deposition (kg/ha),,,,driver,,driver,,
+Clean and Plentiful Waters,Agroecosystems,Reduced nitrogen wet deposition (kg/ha),,,,driver,,driver,,
+Clean and Plentiful Waters,Agroecosystems,Sulfur dry deposition (kg/ha),,,,driver,,driver,,
+Clean and Plentiful Waters,Agroecosystems,Sulfur wet deposition (kg/ha),,,,driver,,driver,,
+Clean and Plentiful Waters,Agroecosystems,Total nitrogen deposition,,,,driver,,driver,,
+Clean and Plentiful Waters,Agroecosystems,Total number of terrestrial species,,,,supplier,supplier,supplier,,
+Clean and Plentiful Waters,Agroecosystems,Total oxidized nitrogen deposition (kg/ha),,,,driver,,driver,,
+Clean and Plentiful Waters,Agroecosystems,Total reduced nitrogen deposition (kg/ha),,,,driver,,driver,,
+Clean and Plentiful Waters,Agroecosystems,Total sulfur deposition (kg/ha),,,,driver,,driver,,
+Clean and Plentiful Waters,Created Greenspace,Number of terrestrial animal species,,,,supplier,supplier,supplier,,
+Clean and Plentiful Waters,Created Greenspace,Number of terrestrial plant species,,,,supplier,supplier,supplier,,
+Clean and Plentiful Waters,Created Greenspace,Percent forest,,,,supplier,supplier,supplier,,
+Clean and Plentiful Waters,Created Greenspace,Percent forest and wood wetlands in buffer,supplier,,,supplier,supplier,supplier,supplier,supplier
+Clean and Plentiful Waters,Created Greenspace,Percent forest and woody wetlands,supplier,,,supplier,supplier,supplier,supplier,supplier
+Clean and Plentiful Waters,Created Greenspace,Percent forest in buffer,,,,supplier,supplier,supplier,,
+Clean and Plentiful Waters,Created Greenspace,Total number of terrestrial species,,,,supplier,supplier,supplier,,
+Clean and Plentiful Waters,Grasslands,Manure application (kg N/ha/yr),driver,,,driver,,driver,,
+Clean and Plentiful Waters,Grasslands,Number of terrestrial animal species,,,,supplier,supplier,supplier,,
+Clean and Plentiful Waters,Grasslands,Number of terrestrial plant species,,,,supplier,supplier,supplier,,
+Clean and Plentiful Waters,Grasslands,Oxidized nitrogen dry deposition (kg/ha),,,,driver,,driver,,
+Clean and Plentiful Waters,Grasslands,Oxidized nitrogen wet deposition (kg/ha),,,,driver,,driver,,
+Clean and Plentiful Waters,Grasslands,Percent cropland,,,,driver,driver,driver,,
+Clean and Plentiful Waters,Grasslands,Percent natural land cover,,,,supplier,supplier,supplier,,
+Clean and Plentiful Waters,Grasslands,Percent natural land cover in buffer,,,,supplier,supplier,supplier,,
+Clean and Plentiful Waters,Grasslands,Reduced nitrogen dry deposition (kg/ha),,,,driver,,driver,,
+Clean and Plentiful Waters,Grasslands,Reduced nitrogen wet deposition (kg/ha),,,,driver,,driver,,
+Clean and Plentiful Waters,Grasslands,Sulfur dry deposition (kg/ha),,,,driver,,driver,,
+Clean and Plentiful Waters,Grasslands,Sulfur wet deposition (kg/ha),,,,driver,,driver,,
+Clean and Plentiful Waters,Grasslands,Total nitrogen deposition,,,,driver,,driver,,
+Clean and Plentiful Waters,Grasslands,Total number of terrestrial species,,,,supplier,supplier,supplier,,
+Clean and Plentiful Waters,Grasslands,Total oxidized nitrogen deposition (kg/ha),,,,driver,,driver,,
+Clean and Plentiful Waters,Grasslands,Total reduced nitrogen deposition (kg/ha),,,,driver,,driver,,
+Clean and Plentiful Waters,Grasslands,Total sulfur deposition (kg/ha),,,,driver,,driver,,
+Clean and Plentiful Waters,Scrublands / Shrublands,Manure application (kg N/ha/yr),driver,,,driver,,driver,,
+Clean and Plentiful Waters,Scrublands / Shrublands,Number of terrestrial animal species,,,,supplier,supplier,supplier,,
+Clean and Plentiful Waters,Scrublands / Shrublands,Number of terrestrial plant species,,,,supplier,supplier,supplier,,
+Clean and Plentiful Waters,Scrublands / Shrublands,Percent forest,,,,supplier,supplier,supplier,,
+Clean and Plentiful Waters,Scrublands / Shrublands,Percent forest and wood wetlands in buffer,supplier,,,supplier,supplier,supplier,supplier,supplier
+Clean and Plentiful Waters,Scrublands / Shrublands,Percent forest and woody wetlands,supplier,,,supplier,supplier,supplier,supplier,supplier
+Clean and Plentiful Waters,Scrublands / Shrublands,Percent forest in buffer,,,,supplier,supplier,supplier,,
+Clean and Plentiful Waters,Scrublands / Shrublands,Percent natural land cover,,,,supplier,supplier,supplier,,
+Clean and Plentiful Waters,Scrublands / Shrublands,Percent natural land cover in buffer,,,,supplier,supplier,supplier,,
+Clean and Plentiful Waters,Scrublands / Shrublands,Total number of terrestrial species,,,,supplier,supplier,supplier,,
+Clean and Plentiful Waters,Barren / Rock and Sand,Manure application (kg N/ha/yr),driver,,,driver,,driver,,
+Clean and Plentiful Waters,Barren / Rock and Sand,Number of terrestrial animal species,,,,supplier,supplier,supplier,,
+Clean and Plentiful Waters,Barren / Rock and Sand,Number of terrestrial plant species,,,,supplier,supplier,supplier,,
+Clean and Plentiful Waters,Barren / Rock and Sand,Percent natural land cover,,,,supplier,supplier,supplier,,
+Clean and Plentiful Waters,Barren / Rock and Sand,Percent natural land cover in buffer,,,,supplier,supplier,supplier,,
+Clean and Plentiful Waters,Barren / Rock and Sand,Total number of terrestrial species,,,,supplier,supplier,supplier,,
+Clean and Plentiful Waters,Tundra,Number of terrestrial animal species,,,,supplier,supplier,supplier,,
+Clean and Plentiful Waters,Tundra,Number of terrestrial plant species,,,,supplier,supplier,supplier,,
+Clean and Plentiful Waters,Tundra,Percent natural land cover,,,,supplier,supplier,supplier,,
+Clean and Plentiful Waters,Tundra,Percent natural land cover in buffer,,,,supplier,supplier,supplier,,
+Clean and Plentiful Waters,Tundra,Total number of terrestrial species,,,,supplier,supplier,supplier,,
+Clean and Plentiful Waters,Ice and Snow,Number of terrestrial animal species,,,,supplier,supplier,supplier,,
+Clean and Plentiful Waters,Ice and Snow,Number of terrestrial plant species,,,,supplier,supplier,supplier,,
+Clean and Plentiful Waters,Ice and Snow,Percent natural land cover,,,,supplier,supplier,supplier,,
+Clean and Plentiful Waters,Ice and Snow,Percent natural land cover in buffer,,,,supplier,supplier,supplier,,
+Clean and Plentiful Waters,Ice and Snow,Total number of terrestrial species,,,,supplier,supplier,supplier,,
+Clean and Plentiful Waters,Atmosphere,Average annual precipitation (inches/yr),supplier,,,driver,driver,driver,supplier,supplier
+Clean and Plentiful Waters,Atmosphere,Manure application (kg N/ha/yr),,,,driver,driver,driver,driver,driver
+Clean and Plentiful Waters,Atmosphere,Oxidized nitrogen dry deposition (kg/ha),,,,driver,driver,driver,driver,driver
+Clean and Plentiful Waters,Atmosphere,Oxidized nitrogen wet deposition (kg/ha),,,,driver,driver,driver,driver,driver
+Clean and Plentiful Waters,Atmosphere,Reduced nitrogen dry deposition (kg/ha),,,,driver,driver,driver,driver,driver
+Clean and Plentiful Waters,Atmosphere,Reduced nitrogen wet deposition (kg/ha),,,,driver,driver,driver,driver,driver
+Clean and Plentiful Waters,Atmosphere,Total nitrogen deposition,,,,driver,driver,driver,driver,driver
+Clean and Plentiful Waters,Atmosphere,Total oxidized nitrogen deposition (kg/ha),,,,driver,driver,driver,driver,driver
+Clean and Plentiful Waters,Atmosphere,Total reduced nitrogen deposition (kg/ha),,,,driver,driver,driver,driver,driver

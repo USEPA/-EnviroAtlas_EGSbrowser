@@ -1,0 +1,471 @@
+Benefit_Category,Ecosystem_Types,Data_Layers,Materials,Nutrition,Energy,Mediation_of_Nuisances,Mediation_of_Flows,Maintenance_of_Conditions,Experiences,Interactions_with_Ecosystems
+Food_Fuel_and_Materials,Rivers and Streams,Cotton yields,supplier,,,,,,supplier,supplier
+Food_Fuel_and_Materials,Rivers and Streams,Fruit yields,,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Rivers and Streams,Grain yields,supplier,supplier,supplier,,,,supplier,supplier
+Food_Fuel_and_Materials,Rivers and Streams,Hectares of cotton crops,supplier,,,,,,supplier,supplier
+Food_Fuel_and_Materials,Rivers and Streams,Hectares of fruit crops,,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Rivers and Streams,Hectares of grain crops,supplier,supplier,supplier,,,,supplier,supplier
+Food_Fuel_and_Materials,Rivers and Streams,Hectares of vegetable crops,,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Rivers and Streams,Maximum bat species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Rivers and Streams,Maximum bat species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Rivers and Streams,Maximum big game species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Rivers and Streams,Maximum big game species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Rivers and Streams,Maximum fur bearer species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Rivers and Streams,Maximum fur bearer species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Rivers and Streams,Maximum small game species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Rivers and Streams,Maximum small game species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Rivers and Streams,Maximum total harvestable species richness: southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Rivers and Streams,Maximum total harvestable species richness: southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Rivers and Streams,Maximum waterfowl species richness: southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Rivers and Streams,Maximum waterfowl species richness: southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Rivers and Streams,Mean bat species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Rivers and Streams,Mean bat species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Rivers and Streams,Mean big game species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Rivers and Streams,Mean big game species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Rivers and Streams,Mean fur bearer species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Rivers and Streams,Mean fur bearer species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Rivers and Streams,Mean small game species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Rivers and Streams,Mean small game species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Rivers and Streams,Mean total harvestable species richness: southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Rivers and Streams,Mean total harvestable species richness: southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Rivers and Streams,Mean waterfowl species richness: southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Rivers and Streams,Mean waterfowl species richness: southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Rivers and Streams,NIB bat species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Rivers and Streams,NIB bat species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Rivers and Streams,NIB big game species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Rivers and Streams,NIB big game species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Rivers and Streams,NIB fur bearer species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Rivers and Streams,NIB fur bearer species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Rivers and Streams,NIB small game species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Rivers and Streams,NIB small game species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Rivers and Streams,NIB total harvestable species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Rivers and Streams,NIB total harvestable species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Rivers and Streams,NIB waterfowl species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Rivers and Streams,NIB waterfowl species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Rivers and Streams,Percent impervious area,driver,driver,driver,driver,driver,driver,driver,driver
+Food_Fuel_and_Materials,Rivers and Streams,Value of cotton crops ,driver,driver,driver,driver,driver,driver,driver,driver
+Food_Fuel_and_Materials,Rivers and Streams,Value of grain crops,driver,driver,driver,driver,driver,driver,driver,driver
+Food_Fuel_and_Materials,Rivers and Streams,Vegetable yields,,supplier,,,,,,
+Food_Fuel_and_Materials,Wetlands,Acres of crops that have no nearby pollinator habitat,driver,driver,driver,driver,driver,driver,driver,driver
+Food_Fuel_and_Materials,Wetlands,Cotton yields,supplier,,,,,,supplier,supplier
+Food_Fuel_and_Materials,Wetlands,Fruit yields,,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Wetlands,Grain yields,supplier,supplier,supplier,,,,supplier,supplier
+Food_Fuel_and_Materials,Wetlands,Hectares of cotton crops,supplier,,,,,,supplier,supplier
+Food_Fuel_and_Materials,Wetlands,Hectares of fruit crops,,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Wetlands,Hectares of grain crops,supplier,supplier,supplier,,,,supplier,supplier
+Food_Fuel_and_Materials,Wetlands,Hectares of vegetable crops,,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Wetlands,Maximum bat species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Wetlands,Maximum bat species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Wetlands,Maximum big game species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Wetlands,Maximum big game species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Wetlands,Maximum fur bearer species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Wetlands,Maximum fur bearer species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Wetlands,Maximum small game species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Wetlands,Maximum small game species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Wetlands,Maximum total harvestable species richness: southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Wetlands,Maximum total harvestable species richness: southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Wetlands,Maximum waterfowl species richness: southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Wetlands,Maximum waterfowl species richness: southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Wetlands,Mean bat species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Wetlands,Mean bat species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Wetlands,Mean big game species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Wetlands,Mean big game species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Wetlands,Mean fur bearer species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Wetlands,Mean fur bearer species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Wetlands,Mean small game species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Wetlands,Mean small game species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Wetlands,Mean total harvestable species richness: southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Wetlands,Mean total harvestable species richness: southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Wetlands,Mean waterfowl species richness: southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Wetlands,Mean waterfowl species richness: southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Wetlands,NIB bat species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Wetlands,NIB bat species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Wetlands,NIB big game species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Wetlands,NIB big game species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Wetlands,NIB fur bearer species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Wetlands,NIB fur bearer species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Wetlands,NIB small game species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Wetlands,NIB small game species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Wetlands,NIB total harvestable species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Wetlands,NIB total harvestable species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Wetlands,NIB waterfowl species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Wetlands,NIB waterfowl species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Wetlands,Number of fruit crop types,,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Wetlands,Number of grain crop types,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Wetlands,Number of terrestrial plant species,supplier,supplier,supplier,supplier,supplier,supplier,supplier,supplier
+Food_Fuel_and_Materials,Wetlands,Number of vegetable crop types,,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Wetlands,Number of wetland animal species,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Wetlands,Number of wetland plant species,supplier,supplier,supplier,supplier,supplier,supplier,supplier,supplier
+Food_Fuel_and_Materials,Wetlands,Percent agriculture on hydric soil,supplier,supplier,supplier,driver,driver,driver,driver,driver
+Food_Fuel_and_Materials,Wetlands,Percent agriculture on wet areas (wetness index > 550),supplier,supplier,supplier,driver,driver,driver,driver,driver
+Food_Fuel_and_Materials,Wetlands,Percent cropland,supplier,supplier,supplier,driver,driver,driver,driver,driver
+Food_Fuel_and_Materials,Wetlands,Percent emergent herbaceous wetlands,supplier,supplier,supplier,supplier,supplier,supplier,supplier,supplier
+Food_Fuel_and_Materials,Wetlands,Percent forest and woody wetlands,supplier,supplier,supplier,supplier,supplier,supplier,supplier,supplier
+Food_Fuel_and_Materials,Wetlands,Percent range on wet areas (wetness index > 550),supplier,supplier,supplier,driver,driver,driver,driver,driver
+Food_Fuel_and_Materials,Wetlands,Percent wetlands,supplier,supplier,supplier,supplier,supplier,supplier,supplier,supplier
+Food_Fuel_and_Materials,Wetlands,Value of cotton crops ,driver,driver,driver,driver,driver,driver,driver,driver
+Food_Fuel_and_Materials,Wetlands,Value of grain crops,driver,driver,driver,driver,driver,driver,driver,driver
+Food_Fuel_and_Materials,Wetlands,Vegetable yields,,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Lakes and Ponds,Cotton yields,supplier,,,,,,supplier,supplier
+Food_Fuel_and_Materials,Lakes and Ponds,Fruit yields,,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Lakes and Ponds,Grain yields,supplier,supplier,supplier,,,,supplier,supplier
+Food_Fuel_and_Materials,Lakes and Ponds,Hectares of cotton crops,supplier,,,,,,supplier,supplier
+Food_Fuel_and_Materials,Lakes and Ponds,Hectares of fruit crops,,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Lakes and Ponds,Hectares of grain crops,supplier,supplier,supplier,,,,supplier,supplier
+Food_Fuel_and_Materials,Lakes and Ponds,Hectares of vegetable crops,,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Lakes and Ponds,Maximum bat species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Lakes and Ponds,Maximum bat species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Lakes and Ponds,Maximum big game species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Lakes and Ponds,Maximum big game species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Lakes and Ponds,Maximum fur bearer species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Lakes and Ponds,Maximum fur bearer species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Lakes and Ponds,Maximum small game species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Lakes and Ponds,Maximum small game species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Lakes and Ponds,Maximum total harvestable species richness: southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Lakes and Ponds,Maximum total harvestable species richness: southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Lakes and Ponds,Maximum waterfowl species richness: southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Lakes and Ponds,Maximum waterfowl species richness: southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Lakes and Ponds,Mean bat species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Lakes and Ponds,Mean bat species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Lakes and Ponds,Mean big game species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Lakes and Ponds,Mean big game species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Lakes and Ponds,Mean fur bearer species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Lakes and Ponds,Mean fur bearer species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Lakes and Ponds,Mean small game species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Lakes and Ponds,Mean small game species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Lakes and Ponds,Mean total harvestable species richness: southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Lakes and Ponds,Mean total harvestable species richness: southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Lakes and Ponds,Mean waterfowl species richness: southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Lakes and Ponds,Mean waterfowl species richness: southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Lakes and Ponds,NIB bat species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Lakes and Ponds,NIB bat species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Lakes and Ponds,NIB big game species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Lakes and Ponds,NIB big game species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Lakes and Ponds,NIB fur bearer species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Lakes and Ponds,NIB fur bearer species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Lakes and Ponds,NIB small game species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Lakes and Ponds,NIB small game species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Lakes and Ponds,NIB total harvestable species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Lakes and Ponds,NIB total harvestable species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Lakes and Ponds,NIB waterfowl species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Lakes and Ponds,NIB waterfowl species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Lakes and Ponds,Percent impervious area,driver,driver,driver,driver,driver,driver,driver,driver
+Food_Fuel_and_Materials,Lakes and Ponds,Value of cotton crops ,driver,driver,driver,driver,driver,driver,driver,driver
+Food_Fuel_and_Materials,Lakes and Ponds,Value of grain crops,driver,driver,driver,driver,driver,driver,driver,driver
+Food_Fuel_and_Materials,Lakes and Ponds,Vegetable yields,,supplier,,,,,,
+Food_Fuel_and_Materials,Estuaries and Near Coastal Marine,Maximum bat species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Estuaries and Near Coastal Marine,Maximum big game species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Estuaries and Near Coastal Marine,Maximum fur bearer species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Estuaries and Near Coastal Marine,Maximum small game species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Estuaries and Near Coastal Marine,Maximum total harvestable species richness: southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Estuaries and Near Coastal Marine,Maximum waterfowl species richness: southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Estuaries and Near Coastal Marine,Mean bat species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Estuaries and Near Coastal Marine,Mean big game species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Estuaries and Near Coastal Marine,Mean fur bearer species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Estuaries and Near Coastal Marine,Mean small game species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Estuaries and Near Coastal Marine,Mean total harvestable species richness: southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Estuaries and Near Coastal Marine,Mean waterfowl species richness: southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Estuaries and Near Coastal Marine,NIB bat species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Estuaries and Near Coastal Marine,NIB big game species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Estuaries and Near Coastal Marine,NIB fur bearer species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Estuaries and Near Coastal Marine,NIB small game species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Estuaries and Near Coastal Marine,NIB total harvestable species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Estuaries and Near Coastal Marine,NIB waterfowl species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Groundwater,Cotton yields,supplier,,,,,,supplier,supplier
+Food_Fuel_and_Materials,Groundwater,Fruit yields,,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Groundwater,Grain yields,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Groundwater,Hectares of cotton crops,supplier,,,,,,supplier,supplier
+Food_Fuel_and_Materials,Groundwater,Hectares of fruit crops,,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Groundwater,Hectares of grain crops,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Groundwater,Hectares of vegetable crops,,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Groundwater,Value of cotton crops ,driver,driver,driver,driver,driver,driver,driver,driver
+Food_Fuel_and_Materials,Groundwater,Value of grain crops,driver,driver,driver,driver,driver,driver,driver,driver
+Food_Fuel_and_Materials,Groundwater,Vegetable yields,,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Forests,Acres of crops that have no nearby pollinator habitat,driver,driver,driver,driver,driver,driver,driver,driver
+Food_Fuel_and_Materials,Forests,Maximum bat species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Forests,Maximum bat species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Forests,Maximum big game species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Forests,Maximum big game species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Forests,Maximum fur bearer species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Forests,Maximum fur bearer species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Forests,Maximum small game species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Forests,Maximum small game species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Forests,Maximum total harvestable species richness: southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Forests,Maximum total harvestable species richness: southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Forests,Maximum waterfowl species richness: southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Forests,Maximum waterfowl species richness: southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Forests,Mean bat species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Forests,Mean bat species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Forests,Mean big game species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Forests,Mean big game species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Forests,Mean fur bearer species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Forests,Mean fur bearer species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Forests,Mean small game species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Forests,Mean small game species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Forests,Mean total harvestable species richness: southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Forests,Mean total harvestable species richness: southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Forests,Mean waterfowl species richness: southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Forests,Mean waterfowl species richness: southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Forests,NIB bat species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Forests,NIB bat species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Forests,NIB big game species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Forests,NIB big game species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Forests,NIB fur bearer species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Forests,NIB fur bearer species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Forests,NIB small game species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Forests,NIB small game species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Forests,NIB total harvestable species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Forests,NIB total harvestable species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Forests,NIB waterfowl species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Forests,NIB waterfowl species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Forests,Number of terrestrial plant species,supplier,supplier,supplier,supplier,supplier,supplier,supplier,supplier
+Food_Fuel_and_Materials,Forests,Percent forest,supplier,supplier,supplier,supplier,supplier,supplier,supplier,supplier
+Food_Fuel_and_Materials,Forests,Percent forest and woody wetlands,supplier,supplier,supplier,supplier,supplier,supplier,supplier,supplier
+Food_Fuel_and_Materials,Agroecosystems,Acres of crops that have no nearby pollinator habitat,driver,driver,driver,driver,driver,driver,driver,driver
+Food_Fuel_and_Materials,Agroecosystems,Cotton yields,supplier,,,,,,supplier,supplier
+Food_Fuel_and_Materials,Agroecosystems,Fruit yields,,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Agroecosystems,Grain yields,supplier,supplier,supplier,,,,supplier,supplier
+Food_Fuel_and_Materials,Agroecosystems,Hectares of cotton crops,supplier,,,,,,supplier,supplier
+Food_Fuel_and_Materials,Agroecosystems,Hectares of fruit crops,,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Agroecosystems,Hectares of grain crops,supplier,supplier,supplier,,,,supplier,supplier
+Food_Fuel_and_Materials,Agroecosystems,Hectares of vegetable crops,,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Agroecosystems,Maximum bat species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Agroecosystems,Maximum bat species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Agroecosystems,Maximum big game species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Agroecosystems,Maximum big game species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Agroecosystems,Maximum fur bearer species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Agroecosystems,Maximum fur bearer species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Agroecosystems,Maximum small game species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Agroecosystems,Maximum small game species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Agroecosystems,Maximum total harvestable species richness: southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Agroecosystems,Maximum total harvestable species richness: southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Agroecosystems,Maximum waterfowl species richness: southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Agroecosystems,Maximum waterfowl species richness: southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Agroecosystems,Mean bat species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Agroecosystems,Mean bat species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Agroecosystems,Mean big game species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Agroecosystems,Mean big game species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Agroecosystems,Mean fur bearer species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Agroecosystems,Mean fur bearer species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Agroecosystems,Mean small game species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Agroecosystems,Mean small game species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Agroecosystems,Mean total harvestable species richness: southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Agroecosystems,Mean total harvestable species richness: southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Agroecosystems,Mean waterfowl species richness: southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Agroecosystems,Mean waterfowl species richness: southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Agroecosystems,NIB bat species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Agroecosystems,NIB bat species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Agroecosystems,NIB big game species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Agroecosystems,NIB big game species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Agroecosystems,NIB fur bearer species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Agroecosystems,NIB fur bearer species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Agroecosystems,NIB small game species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Agroecosystems,NIB small game species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Agroecosystems,NIB total harvestable species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Agroecosystems,NIB total harvestable species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Agroecosystems,NIB waterfowl species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Agroecosystems,NIB waterfowl species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Agroecosystems,Number of fruit crop types,,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Agroecosystems,Number of grain crop types,supplier,supplier,supplier,,,,supplier,supplier
+Food_Fuel_and_Materials,Agroecosystems,Number of terrestrial plant species,supplier,supplier,supplier,supplier,supplier,supplier,supplier,supplier
+Food_Fuel_and_Materials,Agroecosystems,Number of vegetable crop types,,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Agroecosystems,Percent agriculture on hydric soil,supplier,supplier,supplier,driver,driver,driver,driver,driver
+Food_Fuel_and_Materials,Agroecosystems,Percent agriculture on wet areas (wetness index > 550),supplier,supplier,supplier,driver,driver,driver,driver,driver
+Food_Fuel_and_Materials,Agroecosystems,Percent cropland,supplier,supplier,supplier,driver,driver,driver,driver,driver
+Food_Fuel_and_Materials,Agroecosystems,Percent forest,supplier,supplier,supplier,supplier,supplier,supplier,supplier,supplier
+Food_Fuel_and_Materials,Agroecosystems,Percent forest and woody wetlands,supplier,supplier,supplier,supplier,supplier,supplier,supplier,supplier
+Food_Fuel_and_Materials,Agroecosystems,Percent pasture,supplier,supplier,supplier,driver,driver,driver,driver,driver
+Food_Fuel_and_Materials,Agroecosystems,Value of cotton crops ,driver,driver,driver,driver,driver,driver,driver,driver
+Food_Fuel_and_Materials,Agroecosystems,Value of grain crops,driver,driver,driver,driver,driver,driver,driver,driver
+Food_Fuel_and_Materials,Agroecosystems,Vegetable yields,,supplier,,,,,,
+Food_Fuel_and_Materials,Created Greenspace,Acres of crops that have no nearby pollinator habitat,driver,driver,driver,driver,driver,driver,driver,driver
+Food_Fuel_and_Materials,Created Greenspace,Area of solar energy,driver,driver,driver,,,,driver,driver
+Food_Fuel_and_Materials,Created Greenspace,Maximum bat species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Created Greenspace,Maximum bat species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Created Greenspace,Maximum big game species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Created Greenspace,Maximum big game species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Created Greenspace,Maximum fur bearer species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Created Greenspace,Maximum fur bearer species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Created Greenspace,Maximum small game species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Created Greenspace,Maximum small game species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Created Greenspace,Maximum total harvestable species richness: southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Created Greenspace,Maximum total harvestable species richness: southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Created Greenspace,Maximum waterfowl species richness: southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Created Greenspace,Maximum waterfowl species richness: southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Created Greenspace,Mean bat species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Created Greenspace,Mean bat species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Created Greenspace,Mean big game species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Created Greenspace,Mean big game species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Created Greenspace,Mean fur bearer species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Created Greenspace,Mean fur bearer species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Created Greenspace,Mean small game species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Created Greenspace,Mean small game species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Created Greenspace,Mean total harvestable species richness: southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Created Greenspace,Mean total harvestable species richness: southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Created Greenspace,Mean waterfowl species richness: southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Created Greenspace,Mean waterfowl species richness: southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Created Greenspace,NIB bat species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Created Greenspace,NIB bat species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Created Greenspace,NIB big game species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Created Greenspace,NIB big game species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Created Greenspace,NIB fur bearer species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Created Greenspace,NIB fur bearer species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Created Greenspace,NIB small game species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Created Greenspace,NIB small game species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Created Greenspace,NIB total harvestable species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Created Greenspace,NIB total harvestable species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Created Greenspace,NIB waterfowl species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Created Greenspace,NIB waterfowl species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Created Greenspace,Number of terrestrial plant species,supplier,supplier,supplier,supplier,supplier,supplier,supplier,supplier
+Food_Fuel_and_Materials,Created Greenspace,Percent forest,supplier,supplier,supplier,supplier,supplier,supplier,supplier,supplier
+Food_Fuel_and_Materials,Created Greenspace,Percent forest and woody wetlands,supplier,supplier,supplier,supplier,supplier,supplier,supplier,supplier
+Food_Fuel_and_Materials,Grasslands,Acres of crops that have no nearby pollinator habitat,driver,driver,driver,driver,driver,driver,driver,driver
+Food_Fuel_and_Materials,Grasslands,Area of solar energy,driver,driver,driver,,,,driver,driver
+Food_Fuel_and_Materials,Grasslands,Cotton yields,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Grasslands,Fruit yields,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Grasslands,Grain yields,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Grasslands,Hectares of cotton crops,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Grasslands,Hectares of fruit crops,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Grasslands,Hectares of grain crops,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Grasslands,Hectares of vegetable crops,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Grasslands,Maximum bat species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Grasslands,Maximum bat species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Grasslands,Maximum big game species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Grasslands,Maximum big game species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Grasslands,Maximum fur bearer species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Grasslands,Maximum fur bearer species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Grasslands,Maximum small game species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Grasslands,Maximum small game species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Grasslands,Maximum total harvestable species richness: southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Grasslands,Maximum total harvestable species richness: southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Grasslands,Maximum waterfowl species richness: southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Grasslands,Maximum waterfowl species richness: southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Grasslands,Mean bat species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Grasslands,Mean bat species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Grasslands,Mean big game species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Grasslands,Mean big game species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Grasslands,Mean fur bearer species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Grasslands,Mean fur bearer species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Grasslands,Mean small game species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Grasslands,Mean small game species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Grasslands,Mean total harvestable species richness: southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Grasslands,Mean total harvestable species richness: southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Grasslands,Mean waterfowl species richness: southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Grasslands,Mean waterfowl species richness: southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Grasslands,NIB bat species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Grasslands,NIB bat species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Grasslands,NIB big game species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Grasslands,NIB big game species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Grasslands,NIB fur bearer species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Grasslands,NIB fur bearer species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Grasslands,NIB small game species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Grasslands,NIB small game species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Grasslands,NIB total harvestable species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Grasslands,NIB total harvestable species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Grasslands,NIB waterfowl species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Grasslands,NIB waterfowl species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Grasslands,Number of fruit crop types,,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Grasslands,Number of grain crop types,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Grasslands,Number of terrestrial plant species,supplier,supplier,supplier,supplier,supplier,supplier,supplier,supplier
+Food_Fuel_and_Materials,Grasslands,Number of vegetable crop types,,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Grasslands,Percent cropland,supplier,supplier,supplier,driver,driver,driver,driver,driver
+Food_Fuel_and_Materials,Grasslands,Value of cotton crops ,driver,driver,driver,driver,driver,driver,driver,driver
+Food_Fuel_and_Materials,Grasslands,Value of grain crops,driver,driver,driver,driver,driver,driver,driver,driver
+Food_Fuel_and_Materials,Grasslands,Vegetable yields,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Scrublands / Shrublands,Acres of crops that have no nearby pollinator habitat,driver,driver,driver,driver,driver,driver,driver,driver
+Food_Fuel_and_Materials,Scrublands / Shrublands,Area of solar energy,driver,driver,driver,,,,driver,driver
+Food_Fuel_and_Materials,Scrublands / Shrublands,Maximum bat species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Scrublands / Shrublands,Maximum bat species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Scrublands / Shrublands,Maximum big game species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Scrublands / Shrublands,Maximum big game species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Scrublands / Shrublands,Maximum fur bearer species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Scrublands / Shrublands,Maximum fur bearer species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Scrublands / Shrublands,Maximum small game species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Scrublands / Shrublands,Maximum small game species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Scrublands / Shrublands,Maximum total harvestable species richness: southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Scrublands / Shrublands,Maximum total harvestable species richness: southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Scrublands / Shrublands,Maximum waterfowl species richness: southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Scrublands / Shrublands,Maximum waterfowl species richness: southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Scrublands / Shrublands,Mean bat species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Scrublands / Shrublands,Mean bat species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Scrublands / Shrublands,Mean big game species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Scrublands / Shrublands,Mean big game species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Scrublands / Shrublands,Mean fur bearer species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Scrublands / Shrublands,Mean fur bearer species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Scrublands / Shrublands,Mean small game species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Scrublands / Shrublands,Mean small game species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Scrublands / Shrublands,Mean total harvestable species richness: southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Scrublands / Shrublands,Mean total harvestable species richness: southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Scrublands / Shrublands,Mean waterfowl species richness: southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Scrublands / Shrublands,Mean waterfowl species richness: southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Scrublands / Shrublands,NIB bat species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Scrublands / Shrublands,NIB bat species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Scrublands / Shrublands,NIB big game species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Scrublands / Shrublands,NIB big game species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Scrublands / Shrublands,NIB fur bearer species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Scrublands / Shrublands,NIB fur bearer species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Scrublands / Shrublands,NIB small game species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Scrublands / Shrublands,NIB small game species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Scrublands / Shrublands,NIB total harvestable species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Scrublands / Shrublands,NIB total harvestable species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Scrublands / Shrublands,NIB waterfowl species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Scrublands / Shrublands,NIB waterfowl species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Scrublands / Shrublands,Number of terrestrial plant species,supplier,supplier,supplier,,,,supplier,supplier
+Food_Fuel_and_Materials,Scrublands / Shrublands,Percent forest,supplier,supplier,supplier,,,,supplier,supplier
+Food_Fuel_and_Materials,Scrublands / Shrublands,Percent forest and woody wetlands,supplier,supplier,supplier,,,,supplier,supplier
+Food_Fuel_and_Materials,Barren / Rock and Sand,Area of solar energy,driver,driver,driver,,,,driver,driver
+Food_Fuel_and_Materials,Barren / Rock and Sand,Maximum bat species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Barren / Rock and Sand,Maximum bat species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Barren / Rock and Sand,Maximum big game species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Barren / Rock and Sand,Maximum big game species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Barren / Rock and Sand,Maximum fur bearer species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Barren / Rock and Sand,Maximum fur bearer species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Barren / Rock and Sand,Maximum small game species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Barren / Rock and Sand,Maximum small game species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Barren / Rock and Sand,Maximum total harvestable species richness: southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Barren / Rock and Sand,Maximum total harvestable species richness: southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Barren / Rock and Sand,Maximum waterfowl species richness: southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Barren / Rock and Sand,Maximum waterfowl species richness: southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Barren / Rock and Sand,Mean bat species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Barren / Rock and Sand,Mean bat species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Barren / Rock and Sand,Mean big game species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Barren / Rock and Sand,Mean big game species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Barren / Rock and Sand,Mean fur bearer species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Barren / Rock and Sand,Mean fur bearer species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Barren / Rock and Sand,Mean small game species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Barren / Rock and Sand,Mean small game species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Barren / Rock and Sand,Mean total harvestable species richness: southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Barren / Rock and Sand,Mean total harvestable species richness: southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Barren / Rock and Sand,Mean waterfowl species richness: southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Barren / Rock and Sand,Mean waterfowl species richness: southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Barren / Rock and Sand,NIB bat species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Barren / Rock and Sand,NIB bat species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Barren / Rock and Sand,NIB big game species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Barren / Rock and Sand,NIB big game species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Barren / Rock and Sand,NIB fur bearer species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Barren / Rock and Sand,NIB fur bearer species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Barren / Rock and Sand,NIB small game species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Barren / Rock and Sand,NIB small game species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Barren / Rock and Sand,NIB total harvestable species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Barren / Rock and Sand,NIB total harvestable species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Barren / Rock and Sand,NIB waterfowl species richness - southeast,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Barren / Rock and Sand,NIB waterfowl species richness - southwest,supplier,supplier,,,,,supplier,supplier
+Food_Fuel_and_Materials,Barren / Rock and Sand,Number of terrestrial plant species,supplier,supplier,supplier,supplier,supplier,supplier,supplier,supplier
+Food_Fuel_and_Materials,Tundra,Area of solar energy,driver,driver,driver,,,,driver,driver
+Food_Fuel_and_Materials,Tundra,Number of terrestrial plant species,supplier,supplier,supplier,supplier,supplier,supplier,supplier,supplier
+Food_Fuel_and_Materials,Ice and Snow,Number of terrestrial plant species,supplier,supplier,supplier,supplier,supplier,supplier,supplier,supplier
+Food_Fuel_and_Materials,Atmosphere,Average annual daily potential (kWh/m2/day),,,supplier,,,,supplier,supplier
+Food_Fuel_and_Materials,Atmosphere,Cotton yields,,,,,,,,
+Food_Fuel_and_Materials,Atmosphere,Fruit yields,,,,,,,,
+Food_Fuel_and_Materials,Atmosphere,Grain yields,,,,,,,,
+Food_Fuel_and_Materials,Atmosphere,Hectares of cotton crops,,,,,,,,
+Food_Fuel_and_Materials,Atmosphere,Hectares of fruit crops,,,,,,,,
+Food_Fuel_and_Materials,Atmosphere,Hectares of grain crops,,,,,,,,
+Food_Fuel_and_Materials,Atmosphere,Hectares of vegetable crops,,,,,,,,
+Food_Fuel_and_Materials,Atmosphere,Oxidized nitrogen dry deposition (kg/ha),driver,driver,driver,driver,driver,driver,driver,driver
+Food_Fuel_and_Materials,Atmosphere,Oxidized nitrogen wet deposition (kg/ha),driver,driver,driver,driver,driver,driver,driver,driver
+Food_Fuel_and_Materials,Atmosphere,Reduced nitrogen dry deposition (kg/ha),driver,driver,driver,driver,driver,driver,driver,driver
+Food_Fuel_and_Materials,Atmosphere,Reduced nitrogen wet deposition (kg/ha),driver,driver,driver,driver,driver,driver,driver,driver
+Food_Fuel_and_Materials,Atmosphere,Total nitrogen deposition,driver,driver,driver,driver,driver,driver,driver,driver
+Food_Fuel_and_Materials,Atmosphere,Total oxidized nitrogen deposition (kg/ha),driver,driver,driver,driver,driver,driver,driver,driver
+Food_Fuel_and_Materials,Atmosphere,Total reduced nitrogen deposition (kg/ha),driver,driver,driver,driver,driver,driver,driver,driver

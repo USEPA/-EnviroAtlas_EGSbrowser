@@ -1,0 +1,770 @@
+Benefit_Category,Ecosystem_Types,Data_Layers,Materials,Nutrition,Energy,Mediation_of_Nuisances,Mediation_of_Flows,Maintenance_of_Conditions,Experiences,Interactions_with_Ecosystems
+Biodiversity,Rivers and Streams,Maximum amphibian species richness: southeast,,,,,,,supplier,supplier
+Biodiversity,Rivers and Streams,Maximum amphibian species richness: southwest,,,,,,,supplier,supplier
+Biodiversity,Rivers and Streams,Maximum bird species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Rivers and Streams,Maximum bird species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Rivers and Streams,Maximum mammal species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Rivers and Streams,Maximum mammal species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Rivers and Streams,Maximum modeled threatened and endangered vertebrate species - southeast,,,,,,,supplier,supplier
+Biodiversity,Rivers and Streams,Maximum modeled threatened and endangered vertebrate species - southwest,,,,,,,supplier,supplier
+Biodiversity,Rivers and Streams,Maximum reptile species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Rivers and Streams,Maximum reptile species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Rivers and Streams,Maximum total vertebrate species richness: southeast,,,,,,,supplier,supplier
+Biodiversity,Rivers and Streams,Maximum total vertebrate species richness: southwest,,,,,,,supplier,supplier
+Biodiversity,Rivers and Streams,Mean amphibian species richness: southeast,,,,,,,supplier,supplier
+Biodiversity,Rivers and Streams,Mean amphibian species richness: southwest,,,,,,,supplier,supplier
+Biodiversity,Rivers and Streams,Mean bird species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Rivers and Streams,Mean bird species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Rivers and Streams,Mean mammal species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Rivers and Streams,Mean mammal species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Rivers and Streams,Mean modeled threatened and endangered vertebrate species - southeast,,,,,,,supplier,supplier
+Biodiversity,Rivers and Streams,Mean modeled threatened and endangered vertebrate species - southwest,,,,,,,supplier,supplier
+Biodiversity,Rivers and Streams,Mean reptile species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Rivers and Streams,Mean reptile species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Rivers and Streams,Mean total vertebrate species richness: southeast,,,,,,,supplier,supplier
+Biodiversity,Rivers and Streams,Mean total vertebrate species richness: southwest,,,,,,,supplier,supplier
+Biodiversity,Rivers and Streams,NIB amphibian species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Rivers and Streams,NIB amphibian species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Rivers and Streams,NIB bird species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Rivers and Streams,NIB bird species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Rivers and Streams,NIB mammal species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Rivers and Streams,NIB mammal species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Rivers and Streams,NIB modeled threatened and endangered vertebrate species - southeast,,,,,,,supplier,supplier
+Biodiversity,Rivers and Streams,NIB modeled threatened and endangered vertebrate species - southwest,,,,,,,supplier,supplier
+Biodiversity,Rivers and Streams,NIB reptile species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Rivers and Streams,NIB reptile species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Rivers and Streams,NIB total vertebrate species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Rivers and Streams,NIB total vertebrate species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Rivers and Streams,Number of aquatic animal species,,,,,,,supplier,supplier
+Biodiversity,Rivers and Streams,Number of aquatic plant species,,,,,,,supplier,supplier
+Biodiversity,Rivers and Streams,Percent forest and wood wetlands in buffer,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Rivers and Streams,Percent forest in buffer,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Rivers and Streams,Percent GAP status 1 and 2,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Rivers and Streams,Percent GAP status 1 and 2 and 3,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Rivers and Streams,Percent GAP status 3,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Rivers and Streams,Percent impervious area,driver,,,driver,driver,driver,driver,driver
+Biodiversity,Rivers and Streams,Percent IUCN status IA,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Rivers and Streams,Percent IUCN status IB,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Rivers and Streams,Percent IUCN status II,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Rivers and Streams,Percent IUCN status III,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Rivers and Streams,Percent IUCN status IV,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Rivers and Streams,Percent IUCN status V,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Rivers and Streams,Percent IUCN status VI,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Rivers and Streams,Percent land with any IUCN status,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Rivers and Streams,Percent large natural areas,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Rivers and Streams,Percent medium natural areas,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Rivers and Streams,Percent natural land cover in buffer,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Rivers and Streams,Percent rare ecosystem,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Rivers and Streams,Percent rare ecosystem protected,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Rivers and Streams,Percent small natural areas,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Rivers and Streams,Stream density (km/km2),driver,,,driver,driver,driver,driver,driver
+Biodiversity,Rivers and Streams,Stream length (km),driver,,,driver,driver,driver,driver,driver
+Biodiversity,Rivers and Streams,Total number of aquatic species,,,,,,,supplier,supplier
+Biodiversity,Rivers and Streams,Total reptile species richness - US,,,,,,,supplier,supplier
+Biodiversity,Rivers and Streams,Total sulfur deposition (kg/ha),driver,,,driver,,driver,driver,driver
+Biodiversity,Wetlands,Maximum amphibian species richness: southeast,,,,,,,supplier,supplier
+Biodiversity,Wetlands,Maximum amphibian species richness: southwest,,,,,,,supplier,supplier
+Biodiversity,Wetlands,Maximum bat species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Wetlands,Maximum bat species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Wetlands,Maximum bird species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Wetlands,Maximum bird species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Wetlands,Maximum land cover diversity - southeast,,,,,,,supplier,supplier
+Biodiversity,Wetlands,Maximum land cover diversity - southwest,,,,,,,supplier,supplier
+Biodiversity,Wetlands,Maximum mammal species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Wetlands,Maximum mammal species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Wetlands,Maximum modeled threatened and endangered vertebrate species - southeast,,,,,,,supplier,supplier
+Biodiversity,Wetlands,Maximum modeled threatened and endangered vertebrate species - southwest,,,,,,,supplier,supplier
+Biodiversity,Wetlands,Maximum reptile species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Wetlands,Maximum reptile species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Wetlands,Maximum total vertebrate species richness: southeast,,,,,,,supplier,supplier
+Biodiversity,Wetlands,Maximum total vertebrate species richness: southwest,,,,,,,supplier,supplier
+Biodiversity,Wetlands,Mean amphibian species richness: southeast,,,,,,,supplier,supplier
+Biodiversity,Wetlands,Mean amphibian species richness: southwest,,,,,,,supplier,supplier
+Biodiversity,Wetlands,Mean bat species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Wetlands,Mean bat species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Wetlands,Mean bird species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Wetlands,Mean bird species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Wetlands,Mean land cover diversity - southeast,,,,,,,supplier,supplier
+Biodiversity,Wetlands,Mean land cover diversity - southwest,,,,,,,supplier,supplier
+Biodiversity,Wetlands,Mean mammal species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Wetlands,Mean mammal species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Wetlands,Mean modeled threatened and endangered vertebrate species - southeast,,,,,,,supplier,supplier
+Biodiversity,Wetlands,Mean modeled threatened and endangered vertebrate species - southwest,,,,,,,supplier,supplier
+Biodiversity,Wetlands,Mean reptile species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Wetlands,Mean reptile species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Wetlands,Mean total vertebrate species richness: southeast,,,,,,,supplier,supplier
+Biodiversity,Wetlands,Mean total vertebrate species richness: southwest,,,,,,,supplier,supplier
+Biodiversity,Wetlands,NIB amphibian species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Wetlands,NIB amphibian species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Wetlands,NIB bat species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Wetlands,NIB bat species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Wetlands,NIB bird species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Wetlands,NIB bird species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Wetlands,NIB land cover diversity - southeast,,,,,,,supplier,supplier
+Biodiversity,Wetlands,NIB land cover diversity - southwest,,,,,,,supplier,supplier
+Biodiversity,Wetlands,NIB mammal species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Wetlands,NIB mammal species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Wetlands,NIB modeled threatened and endangered vertebrate species - southeast,,,,,,,supplier,supplier
+Biodiversity,Wetlands,NIB modeled threatened and endangered vertebrate species - southwest,,,,,,,supplier,supplier
+Biodiversity,Wetlands,NIB reptile species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Wetlands,NIB reptile species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Wetlands,NIB total vertebrate species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Wetlands,NIB total vertebrate species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Wetlands,Number of aquatic animal species,,,,,,,supplier,supplier
+Biodiversity,Wetlands,Number of aquatic plant species,,,,,,,supplier,supplier
+Biodiversity,Wetlands,Number of terrestrial animal species,,,,,,,supplier,supplier
+Biodiversity,Wetlands,Number of terrestrial plant species,,,,,,,supplier,supplier
+Biodiversity,Wetlands,Oxidized nitrogen dry deposition (kg/ha),driver,,,driver,driver,driver,driver,driver
+Biodiversity,Wetlands,Oxidized nitrogen wet deposition (kg/ha),driver,,,driver,driver,driver,driver,driver
+Biodiversity,Wetlands,Percent cropland,driver,,,driver,driver,driver,driver,driver
+Biodiversity,Wetlands,Percent emergent herbaceous wetlands,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Wetlands,Percent forest and wood wetlands in buffer,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Wetlands,Percent forest and woody wetlands,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Wetlands,Percent GAP status 1 and 2,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Wetlands,Percent GAP status 1 and 2 and 3,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Wetlands,Percent GAP status 3,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Wetlands,Percent IUCN status IA,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Wetlands,Percent IUCN status IB,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Wetlands,Percent IUCN status II,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Wetlands,Percent IUCN status III,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Wetlands,Percent IUCN status IV,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Wetlands,Percent IUCN status V,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Wetlands,Percent IUCN status VI,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Wetlands,Percent land with any IUCN status,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Wetlands,Percent large natural areas,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Wetlands,Percent medium natural areas,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Wetlands,Percent natural land cover,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Wetlands,Percent natural land cover in buffer,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Wetlands,Percent potentially restorable wetlands,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Wetlands,Percent rare ecosystem,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Wetlands,Percent rare ecosystem protected,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Wetlands,Percent small natural areas,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Wetlands,Percent wetlands,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Wetlands,Reduced nitrogen dry deposition (kg/ha),driver,,,driver,,driver,driver,driver
+Biodiversity,Wetlands,Reduced nitrogen wet deposition (kg/ha),driver,,,driver,,driver,driver,driver
+Biodiversity,Wetlands,Total nitrogen deposition,driver,,,driver,,driver,driver,driver
+Biodiversity,Wetlands,Total number of aquatic species,,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Wetlands,Total number of terrestrial species,,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Wetlands,Total number of wetland species,,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Wetlands,Total oxidized nitrogen deposition (kg/ha),driver,,,driver,,driver,driver,driver
+Biodiversity,Wetlands,Total reduced nitrogen deposition (kg/ha),driver,,,driver,,driver,driver,driver
+Biodiversity,Wetlands,Total reptile species richness - US,,,,,,,supplier,supplier
+Biodiversity,Wetlands,Total sulfur deposition (kg/ha),driver,,,driver,,driver,driver,driver
+Biodiversity,Lakes and Ponds,Maximum amphibian species richness: southeast,,,,,,,supplier,supplier
+Biodiversity,Lakes and Ponds,Maximum amphibian species richness: southwest,,,,,,,supplier,supplier
+Biodiversity,Lakes and Ponds,Maximum bird species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Lakes and Ponds,Maximum bird species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Lakes and Ponds,Maximum mammal species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Lakes and Ponds,Maximum mammal species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Lakes and Ponds,Maximum modeled threatened and endangered vertebrate species - southeast,,,,,,,supplier,supplier
+Biodiversity,Lakes and Ponds,Maximum modeled threatened and endangered vertebrate species - southwest,,,,,,,supplier,supplier
+Biodiversity,Lakes and Ponds,Maximum reptile species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Lakes and Ponds,Maximum reptile species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Lakes and Ponds,Maximum total vertebrate species richness: southeast,,,,,,,supplier,supplier
+Biodiversity,Lakes and Ponds,Maximum total vertebrate species richness: southwest,,,,,,,supplier,supplier
+Biodiversity,Lakes and Ponds,Mean amphibian species richness: southeast,,,,,,,supplier,supplier
+Biodiversity,Lakes and Ponds,Mean amphibian species richness: southwest,,,,,,,supplier,supplier
+Biodiversity,Lakes and Ponds,Mean bird species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Lakes and Ponds,Mean bird species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Lakes and Ponds,Mean mammal species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Lakes and Ponds,Mean mammal species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Lakes and Ponds,Mean modeled threatened and endangered vertebrate species - southeast,,,,,,,supplier,supplier
+Biodiversity,Lakes and Ponds,Mean modeled threatened and endangered vertebrate species - southwest,,,,,,,supplier,supplier
+Biodiversity,Lakes and Ponds,Mean reptile species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Lakes and Ponds,Mean reptile species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Lakes and Ponds,Mean total vertebrate species richness: southeast,,,,,,,supplier,supplier
+Biodiversity,Lakes and Ponds,Mean total vertebrate species richness: southwest,,,,,,,supplier,supplier
+Biodiversity,Lakes and Ponds,NIB amphibian species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Lakes and Ponds,NIB amphibian species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Lakes and Ponds,NIB bird species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Lakes and Ponds,NIB bird species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Lakes and Ponds,NIB mammal species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Lakes and Ponds,NIB mammal species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Lakes and Ponds,NIB modeled threatened and endangered vertebrate species - southeast,,,,,,,supplier,supplier
+Biodiversity,Lakes and Ponds,NIB modeled threatened and endangered vertebrate species - southwest,,,,,,,supplier,supplier
+Biodiversity,Lakes and Ponds,NIB reptile species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Lakes and Ponds,NIB reptile species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Lakes and Ponds,NIB total vertebrate species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Lakes and Ponds,NIB total vertebrate species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Lakes and Ponds,Number of aquatic animal species,,,,,,,supplier,supplier
+Biodiversity,Lakes and Ponds,Number of aquatic plant species,,,,,,,supplier,supplier
+Biodiversity,Lakes and Ponds,Number of dams,driver,,,driver,driver,driver,driver,driver
+Biodiversity,Lakes and Ponds,Percent forest and wood wetlands in buffer,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Lakes and Ponds,Percent forest in buffer,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Lakes and Ponds,Percent GAP status 1 and 2,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Lakes and Ponds,Percent GAP status 1 and 2 and 3,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Lakes and Ponds,Percent GAP status 3,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Lakes and Ponds,Percent impervious area,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Lakes and Ponds,Percent IUCN status IA,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Lakes and Ponds,Percent IUCN status IB,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Lakes and Ponds,Percent IUCN status II,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Lakes and Ponds,Percent IUCN status III,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Lakes and Ponds,Percent IUCN status IV,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Lakes and Ponds,Percent IUCN status V,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Lakes and Ponds,Percent IUCN status VI,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Lakes and Ponds,Percent land with any IUCN status,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Lakes and Ponds,Percent large natural areas,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Lakes and Ponds,Percent medium natural areas,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Lakes and Ponds,Percent natural land cover in buffer,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Lakes and Ponds,Percent small natural areas,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Lakes and Ponds,Total number of aquatic species,,,,,,,supplier,supplier
+Biodiversity,Lakes and Ponds,Total reptile species richness - US,,,,,,,supplier,supplier
+Biodiversity,Lakes and Ponds,Total sulfur deposition (kg/ha),driver,,,driver,,driver,driver,driver
+Biodiversity,Lakes and Ponds,Water supply from reservoirs (million gallons),driver,,,driver,driver,driver,driver,driver
+Biodiversity,Estuaries and Near Coastal Marine,Maximum amphibian species richness: southeast,,,,,,,supplier,supplier
+Biodiversity,Estuaries and Near Coastal Marine,Maximum bat species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Estuaries and Near Coastal Marine,Maximum bird species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Estuaries and Near Coastal Marine,Maximum mammal species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Estuaries and Near Coastal Marine,Maximum modeled threatened and endangered vertebrate species - southeast,,,,,,,supplier,supplier
+Biodiversity,Estuaries and Near Coastal Marine,Maximum reptile species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Estuaries and Near Coastal Marine,Maximum total vertebrate species richness: southeast,,,,,,,supplier,supplier
+Biodiversity,Estuaries and Near Coastal Marine,Mean amphibian species richness: southeast,,,,,,,supplier,supplier
+Biodiversity,Estuaries and Near Coastal Marine,Mean bat species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Estuaries and Near Coastal Marine,Mean bird species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Estuaries and Near Coastal Marine,Mean mammal species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Estuaries and Near Coastal Marine,Mean modeled threatened and endangered vertebrate species - southeast,,,,,,,supplier,supplier
+Biodiversity,Estuaries and Near Coastal Marine,Mean reptile species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Estuaries and Near Coastal Marine,Mean total vertebrate species richness: southeast,,,,,,,supplier,supplier
+Biodiversity,Estuaries and Near Coastal Marine,NIB amphibian species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Estuaries and Near Coastal Marine,NIB bat species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Estuaries and Near Coastal Marine,NIB bird species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Estuaries and Near Coastal Marine,NIB mammal species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Estuaries and Near Coastal Marine,NIB modeled threatened and endangered vertebrate species - southeast,,,,,,,supplier,supplier
+Biodiversity,Estuaries and Near Coastal Marine,NIB reptile species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Estuaries and Near Coastal Marine,NIB total vertebrate species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Estuaries and Near Coastal Marine,Number of aquatic animal species,,,,,,,supplier,supplier
+Biodiversity,Estuaries and Near Coastal Marine,Number of aquatic plant species,,,,,,,supplier,supplier
+Biodiversity,Estuaries and Near Coastal Marine,Percent GAP status 1 and 2,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Estuaries and Near Coastal Marine,Percent GAP status 1 and 2 and 3,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Estuaries and Near Coastal Marine,Percent GAP status 3,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Estuaries and Near Coastal Marine,Percent IUCN status IA,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Estuaries and Near Coastal Marine,Percent IUCN status IB,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Estuaries and Near Coastal Marine,Percent IUCN status II,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Estuaries and Near Coastal Marine,Percent IUCN status III,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Estuaries and Near Coastal Marine,Percent IUCN status IV,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Estuaries and Near Coastal Marine,Percent IUCN status V,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Estuaries and Near Coastal Marine,Percent IUCN status VI,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Estuaries and Near Coastal Marine,Percent land with any IUCN status,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Estuaries and Near Coastal Marine,Percent large natural areas,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Estuaries and Near Coastal Marine,Percent medium natural areas,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Estuaries and Near Coastal Marine,Percent rare ecosystem,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Estuaries and Near Coastal Marine,Percent rare ecosystem protected,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Estuaries and Near Coastal Marine,Percent small natural areas,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Estuaries and Near Coastal Marine,Total number of aquatic species,,,,,,,supplier,supplier
+Biodiversity,Estuaries and Near Coastal Marine,Total reptile species richness - US,,,,,,,supplier,supplier
+Biodiversity,Estuaries and Near Coastal Marine,Total sulfur deposition (kg/ha),driver,,,driver,,driver,driver,driver
+Biodiversity,Open Oceans and Seas,Number of aquatic animal species,,,,,,,supplier,supplier
+Biodiversity,Open Oceans and Seas,Number of aquatic plant species,,,,,,,supplier,supplier
+Biodiversity,Open Oceans and Seas,Percent GAP status 1 and 2,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Open Oceans and Seas,Percent GAP status 1 and 2 and 3,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Open Oceans and Seas,Percent GAP status 3,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Open Oceans and Seas,Percent IUCN status IA,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Open Oceans and Seas,Percent IUCN status IB,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Open Oceans and Seas,Percent IUCN status II,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Open Oceans and Seas,Percent IUCN status III,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Open Oceans and Seas,Percent IUCN status IV,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Open Oceans and Seas,Percent IUCN status V,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Open Oceans and Seas,Percent IUCN status VI,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Open Oceans and Seas,Total number of aquatic species,,,,,,,supplier,supplier
+Biodiversity,Groundwater,Number of aquatic animal species,,,,,,,supplier,supplier
+Biodiversity,Groundwater,Number of aquatic plant species,,,,,,,supplier,supplier
+Biodiversity,Groundwater,Percent GAP status 1 and 2,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Groundwater,Percent GAP status 1 and 2 and 3,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Groundwater,Percent GAP status 3,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Groundwater,Percent IUCN status IA,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Groundwater,Percent IUCN status IB,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Groundwater,Percent IUCN status II,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Groundwater,Percent IUCN status III,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Groundwater,Percent IUCN status IV,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Groundwater,Percent IUCN status V,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Groundwater,Percent IUCN status VI,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Groundwater,Percent land with any IUCN status,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Groundwater,Percent rare ecosystem,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Groundwater,Percent rare ecosystem protected,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Groundwater,Total number of aquatic species,,,,,,,supplier,supplier
+Biodiversity,Forests,Maximum amphibian species richness: southeast,,,,,,,supplier,supplier
+Biodiversity,Forests,Maximum amphibian species richness: southwest,,,,,,,supplier,supplier
+Biodiversity,Forests,Maximum bat species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Forests,Maximum bat species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Forests,Maximum bird species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Forests,Maximum bird species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Forests,Maximum land cover diversity - southeast,,,,,,,supplier,supplier
+Biodiversity,Forests,Maximum land cover diversity - southwest,,,,,,,supplier,supplier
+Biodiversity,Forests,Maximum mammal species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Forests,Maximum mammal species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Forests,Maximum modeled threatened and endangered vertebrate species - southeast,,,,,,,supplier,supplier
+Biodiversity,Forests,Maximum modeled threatened and endangered vertebrate species - southwest,,,,,,,supplier,supplier
+Biodiversity,Forests,Maximum reptile species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Forests,Maximum reptile species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Forests,Maximum total vertebrate species richness: southeast,,,,,,,supplier,supplier
+Biodiversity,Forests,Maximum total vertebrate species richness: southwest,,,,,,,supplier,supplier
+Biodiversity,Forests,Mean amphibian species richness: southeast,,,,,,,supplier,supplier
+Biodiversity,Forests,Mean amphibian species richness: southwest,,,,,,,supplier,supplier
+Biodiversity,Forests,Mean bat species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Forests,Mean bat species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Forests,Mean bird species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Forests,Mean bird species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Forests,Mean land cover diversity - southeast,,,,,,,supplier,supplier
+Biodiversity,Forests,Mean land cover diversity - southwest,,,,,,,supplier,supplier
+Biodiversity,Forests,Mean mammal species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Forests,Mean mammal species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Forests,Mean modeled threatened and endangered vertebrate species - southeast,,,,,,,supplier,supplier
+Biodiversity,Forests,Mean modeled threatened and endangered vertebrate species - southwest,,,,,,,supplier,supplier
+Biodiversity,Forests,Mean reptile species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Forests,Mean reptile species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Forests,Mean total vertebrate species richness: southeast,,,,,,,supplier,supplier
+Biodiversity,Forests,Mean total vertebrate species richness: southwest,,,,,,,supplier,supplier
+Biodiversity,Forests,NIB amphibian species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Forests,NIB amphibian species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Forests,NIB bat species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Forests,NIB bat species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Forests,NIB bird species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Forests,NIB bird species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Forests,NIB land cover diversity - southeast,,,,,,,supplier,supplier
+Biodiversity,Forests,NIB land cover diversity - southwest,,,,,,,supplier,supplier
+Biodiversity,Forests,NIB mammal species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Forests,NIB mammal species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Forests,NIB modeled threatened and endangered vertebrate species - southeast,,,,,,,supplier,supplier
+Biodiversity,Forests,NIB modeled threatened and endangered vertebrate species - southwest,,,,,,,supplier,supplier
+Biodiversity,Forests,NIB reptile species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Forests,NIB reptile species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Forests,NIB total vertebrate species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Forests,NIB total vertebrate species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Forests,Number of terrestrial animal species,,,,,,,supplier,supplier
+Biodiversity,Forests,Number of terrestrial plant species,,,,,,,supplier,supplier
+Biodiversity,Forests,Oxidized nitrogen dry deposition (kg/ha),driver,,,driver,,driver,driver,driver
+Biodiversity,Forests,Oxidized nitrogen wet deposition (kg/ha),driver,,,driver,,driver,driver,driver
+Biodiversity,Forests,Percent forest,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Forests,Percent forest and wood wetlands in buffer,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Forests,Percent forest and woody wetlands,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Forests,Percent forest in buffer,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Forests,Percent GAP status 1 and 2,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Forests,Percent GAP status 1 and 2 and 3,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Forests,Percent GAP status 3,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Forests,Percent IUCN status IA,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Forests,Percent IUCN status IB,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Forests,Percent IUCN status II,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Forests,Percent IUCN status III,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Forests,Percent IUCN status IV,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Forests,Percent IUCN status V,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Forests,Percent IUCN status VI,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Forests,Percent land with any IUCN status,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Forests,Percent large natural areas,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Forests,Percent medium natural areas,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Forests,Percent natural land cover,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Forests,Percent natural land cover in buffer,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Forests,Percent rare ecosystem,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Forests,Percent rare ecosystem protected,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Forests,Percent small natural areas,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Forests,Reduced nitrogen dry deposition (kg/ha),driver,,,driver,,driver,driver,driver
+Biodiversity,Forests,Reduced nitrogen wet deposition (kg/ha),driver,,,driver,,driver,driver,driver
+Biodiversity,Forests,Total nitrogen deposition,driver,,,driver,,driver,driver,driver
+Biodiversity,Forests,Total number of terrestrial species,,,,,,,supplier,supplier
+Biodiversity,Forests,Total oxidized nitrogen deposition (kg/ha),driver,,,driver,,driver,driver,driver
+Biodiversity,Forests,Total reduced nitrogen deposition (kg/ha),driver,,,driver,,driver,driver,driver
+Biodiversity,Forests,Total reptile species richness - US,,,,,,,supplier,supplier
+Biodiversity,Forests,Total sulfur deposition (kg/ha),driver,,,driver,,driver,driver,driver
+Biodiversity,Agroecosystems,Maximum amphibian species richness: southeast,,,,,,,supplier,supplier
+Biodiversity,Agroecosystems,Maximum amphibian species richness: southwest,,,,,,,supplier,supplier
+Biodiversity,Agroecosystems,Maximum bat species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Agroecosystems,Maximum bat species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Agroecosystems,Maximum bird species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Agroecosystems,Maximum bird species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Agroecosystems,Maximum land cover diversity - southeast,,,,,,,supplier,supplier
+Biodiversity,Agroecosystems,Maximum land cover diversity - southwest,,,,,,,supplier,supplier
+Biodiversity,Agroecosystems,Maximum mammal species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Agroecosystems,Maximum mammal species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Agroecosystems,Maximum modeled threatened and endangered vertebrate species - southeast,,,,,,,supplier,supplier
+Biodiversity,Agroecosystems,Maximum modeled threatened and endangered vertebrate species - southwest,,,,,,,supplier,supplier
+Biodiversity,Agroecosystems,Maximum reptile species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Agroecosystems,Maximum reptile species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Agroecosystems,Maximum total vertebrate species richness: southeast,,,,,,,supplier,supplier
+Biodiversity,Agroecosystems,Maximum total vertebrate species richness: southwest,,,,,,,supplier,supplier
+Biodiversity,Agroecosystems,Mean amphibian species richness: southeast,,,,,,,supplier,supplier
+Biodiversity,Agroecosystems,Mean amphibian species richness: southwest,,,,,,,supplier,supplier
+Biodiversity,Agroecosystems,Mean bat species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Agroecosystems,Mean bat species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Agroecosystems,Mean bird species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Agroecosystems,Mean bird species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Agroecosystems,Mean land cover diversity - southeast,,,,,,,supplier,supplier
+Biodiversity,Agroecosystems,Mean land cover diversity - southwest,,,,,,,supplier,supplier
+Biodiversity,Agroecosystems,Mean mammal species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Agroecosystems,Mean mammal species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Agroecosystems,Mean modeled threatened and endangered vertebrate species - southeast,,,,,,,supplier,supplier
+Biodiversity,Agroecosystems,Mean modeled threatened and endangered vertebrate species - southwest,,,,,,,supplier,supplier
+Biodiversity,Agroecosystems,Mean reptile species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Agroecosystems,Mean reptile species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Agroecosystems,Mean total vertebrate species richness: southeast,,,,,,,supplier,supplier
+Biodiversity,Agroecosystems,Mean total vertebrate species richness: southwest,,,,,,,supplier,supplier
+Biodiversity,Agroecosystems,NIB amphibian species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Agroecosystems,NIB amphibian species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Agroecosystems,NIB bat species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Agroecosystems,NIB bat species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Agroecosystems,NIB bird species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Agroecosystems,NIB bird species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Agroecosystems,NIB land cover diversity - southeast,,,,,,,supplier,supplier
+Biodiversity,Agroecosystems,NIB land cover diversity - southwest,,,,,,,supplier,supplier
+Biodiversity,Agroecosystems,NIB mammal species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Agroecosystems,NIB mammal species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Agroecosystems,NIB modeled threatened and endangered vertebrate species - southeast,,,,,,,supplier,supplier
+Biodiversity,Agroecosystems,NIB modeled threatened and endangered vertebrate species - southwest,,,,,,,supplier,supplier
+Biodiversity,Agroecosystems,NIB reptile species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Agroecosystems,NIB reptile species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Agroecosystems,NIB total vertebrate species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Agroecosystems,NIB total vertebrate species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Agroecosystems,Number of terrestrial animal species,,,,,,,supplier,supplier
+Biodiversity,Agroecosystems,Number of terrestrial plant species,,,,,,,supplier,supplier
+Biodiversity,Agroecosystems,Oxidized nitrogen dry deposition (kg/ha),driver,,,driver,,driver,driver,driver
+Biodiversity,Agroecosystems,Oxidized nitrogen wet deposition (kg/ha),driver,,,driver,,driver,driver,driver
+Biodiversity,Agroecosystems,Percent cropland,driver,,,driver,driver,driver,driver,driver
+Biodiversity,Agroecosystems,Percent forest,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Agroecosystems,Percent forest and wood wetlands in buffer,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Agroecosystems,Percent forest and woody wetlands,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Agroecosystems,Percent forest in buffer,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Agroecosystems,Percent GAP status 1 and 2,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Agroecosystems,Percent GAP status 1 and 2 and 3,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Agroecosystems,Percent GAP status 3,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Agroecosystems,Percent IUCN status IA,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Agroecosystems,Percent IUCN status IB,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Agroecosystems,Percent IUCN status II,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Agroecosystems,Percent IUCN status III,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Agroecosystems,Percent IUCN status V,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Agroecosystems,Percent IUCN status VI,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Agroecosystems,Percent land with any IUCN status,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Agroecosystems,Percent pasture,driver,,,driver,driver,driver,driver,driver
+Biodiversity,Agroecosystems,Reduced nitrogen dry deposition (kg/ha),driver,,,driver,,driver,driver,driver
+Biodiversity,Agroecosystems,Reduced nitrogen wet deposition (kg/ha),driver,,,driver,,driver,driver,driver
+Biodiversity,Agroecosystems,Total nitrogen deposition,driver,,,driver,,driver,driver,driver
+Biodiversity,Agroecosystems,Total number of terrestrial species,,,,,,,supplier,supplier
+Biodiversity,Agroecosystems,Total oxidized nitrogen deposition (kg/ha),driver,,,driver,,driver,driver,driver
+Biodiversity,Agroecosystems,Total reduced nitrogen deposition (kg/ha),driver,,,driver,,driver,driver,driver
+Biodiversity,Agroecosystems,Total reptile species richness - US,,,,,,,supplier,supplier
+Biodiversity,Agroecosystems,Total sulfur deposition (kg/ha),driver,,,driver,,driver,driver,driver
+Biodiversity,Created Greenspace,Maximum amphibian species richness: southeast,,,,,,,supplier,supplier
+Biodiversity,Created Greenspace,Maximum amphibian species richness: southwest,,,,,,,supplier,supplier
+Biodiversity,Created Greenspace,Maximum bat species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Created Greenspace,Maximum bat species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Created Greenspace,Maximum bird species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Created Greenspace,Maximum bird species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Created Greenspace,Maximum land cover diversity - southeast,,,,,,,supplier,supplier
+Biodiversity,Created Greenspace,Maximum land cover diversity - southwest,,,,,,,supplier,supplier
+Biodiversity,Created Greenspace,Maximum mammal species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Created Greenspace,Maximum mammal species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Created Greenspace,Maximum modeled threatened and endangered vertebrate species - southeast,,,,,,,supplier,supplier
+Biodiversity,Created Greenspace,Maximum modeled threatened and endangered vertebrate species - southwest,,,,,,,supplier,supplier
+Biodiversity,Created Greenspace,Maximum reptile species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Created Greenspace,Maximum reptile species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Created Greenspace,Maximum total vertebrate species richness: southeast,,,,,,,supplier,supplier
+Biodiversity,Created Greenspace,Maximum total vertebrate species richness: southwest,,,,,,,supplier,supplier
+Biodiversity,Created Greenspace,Mean amphibian species richness: southeast,,,,,,,supplier,supplier
+Biodiversity,Created Greenspace,Mean amphibian species richness: southwest,,,,,,,supplier,supplier
+Biodiversity,Created Greenspace,Mean bat species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Created Greenspace,Mean bat species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Created Greenspace,Mean bird species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Created Greenspace,Mean bird species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Created Greenspace,Mean land cover diversity - southeast,,,,,,,supplier,supplier
+Biodiversity,Created Greenspace,Mean land cover diversity - southwest,,,,,,,supplier,supplier
+Biodiversity,Created Greenspace,Mean mammal species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Created Greenspace,Mean mammal species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Created Greenspace,Mean modeled threatened and endangered vertebrate species - southeast,,,,,,,supplier,supplier
+Biodiversity,Created Greenspace,Mean modeled threatened and endangered vertebrate species - southwest,,,,,,,supplier,supplier
+Biodiversity,Created Greenspace,Mean reptile species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Created Greenspace,Mean reptile species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Created Greenspace,Mean total vertebrate species richness: southeast,,,,,,,supplier,supplier
+Biodiversity,Created Greenspace,Mean total vertebrate species richness: southwest,,,,,,,supplier,supplier
+Biodiversity,Created Greenspace,NIB amphibian species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Created Greenspace,NIB amphibian species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Created Greenspace,NIB bat species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Created Greenspace,NIB bat species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Created Greenspace,NIB bird species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Created Greenspace,NIB bird species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Created Greenspace,NIB land cover diversity - southeast,,,,,,,supplier,supplier
+Biodiversity,Created Greenspace,NIB land cover diversity - southwest,,,,,,,supplier,supplier
+Biodiversity,Created Greenspace,NIB mammal species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Created Greenspace,NIB mammal species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Created Greenspace,NIB modeled threatened and endangered vertebrate species - southeast,,,,,,,supplier,supplier
+Biodiversity,Created Greenspace,NIB modeled threatened and endangered vertebrate species - southwest,,,,,,,supplier,supplier
+Biodiversity,Created Greenspace,NIB reptile species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Created Greenspace,NIB reptile species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Created Greenspace,NIB total vertebrate species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Created Greenspace,NIB total vertebrate species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Created Greenspace,Number of terrestrial animal species,,,,,,,supplier,supplier
+Biodiversity,Created Greenspace,Number of terrestrial plant species,,,,,,,supplier,supplier
+Biodiversity,Created Greenspace,Percent forest,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Created Greenspace,Percent forest and wood wetlands in buffer,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Created Greenspace,Percent forest and woody wetlands,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Created Greenspace,Percent forest in buffer,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Created Greenspace,Percent IUCN status IV,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Created Greenspace,Percent IUCN status V,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Created Greenspace,Percent IUCN status VI,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Created Greenspace,Percent land with any IUCN status,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Created Greenspace,Percent rare ecosystem,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Created Greenspace,Percent rare ecosystem protected,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Created Greenspace,Total number of terrestrial species,,,,,,,supplier,supplier
+Biodiversity,Created Greenspace,Total reptile species richness - US,,,,,,,supplier,supplier
+Biodiversity,Grasslands,Maximum amphibian species richness: southeast,,,,,,,supplier,supplier
+Biodiversity,Grasslands,Maximum amphibian species richness: southwest,,,,,,,supplier,supplier
+Biodiversity,Grasslands,Maximum bat species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Grasslands,Maximum bat species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Grasslands,Maximum bird species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Grasslands,Maximum bird species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Grasslands,Maximum land cover diversity - southeast,,,,,,,supplier,supplier
+Biodiversity,Grasslands,Maximum land cover diversity - southwest,,,,,,,supplier,supplier
+Biodiversity,Grasslands,Maximum mammal species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Grasslands,Maximum mammal species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Grasslands,Maximum modeled threatened and endangered vertebrate species - southeast,,,,,,,supplier,supplier
+Biodiversity,Grasslands,Maximum modeled threatened and endangered vertebrate species - southwest,,,,,,,supplier,supplier
+Biodiversity,Grasslands,Maximum reptile species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Grasslands,Maximum reptile species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Grasslands,Maximum total vertebrate species richness: southeast,,,,,,,supplier,supplier
+Biodiversity,Grasslands,Maximum total vertebrate species richness: southwest,,,,,,,supplier,supplier
+Biodiversity,Grasslands,Mean amphibian species richness: southeast,,,,,,,supplier,supplier
+Biodiversity,Grasslands,Mean amphibian species richness: southwest,,,,,,,supplier,supplier
+Biodiversity,Grasslands,Mean bat species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Grasslands,Mean bat species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Grasslands,Mean bird species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Grasslands,Mean bird species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Grasslands,Mean land cover diversity - southeast,,,,,,,supplier,supplier
+Biodiversity,Grasslands,Mean land cover diversity - southwest,,,,,,,supplier,supplier
+Biodiversity,Grasslands,Mean mammal species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Grasslands,Mean mammal species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Grasslands,Mean modeled threatened and endangered vertebrate species - southeast,,,,,,,supplier,supplier
+Biodiversity,Grasslands,Mean modeled threatened and endangered vertebrate species - southwest,,,,,,,supplier,supplier
+Biodiversity,Grasslands,Mean reptile species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Grasslands,Mean reptile species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Grasslands,Mean total vertebrate species richness: southeast,,,,,,,supplier,supplier
+Biodiversity,Grasslands,Mean total vertebrate species richness: southwest,,,,,,,supplier,supplier
+Biodiversity,Grasslands,NIB amphibian species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Grasslands,NIB amphibian species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Grasslands,NIB bat species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Grasslands,NIB bat species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Grasslands,NIB bird species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Grasslands,NIB bird species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Grasslands,NIB land cover diversity - southeast,,,,,,,supplier,supplier
+Biodiversity,Grasslands,NIB land cover diversity - southwest,,,,,,,supplier,supplier
+Biodiversity,Grasslands,NIB mammal species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Grasslands,NIB mammal species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Grasslands,NIB modeled threatened and endangered vertebrate species - southeast,,,,,,,supplier,supplier
+Biodiversity,Grasslands,NIB modeled threatened and endangered vertebrate species - southwest,,,,,,,supplier,supplier
+Biodiversity,Grasslands,NIB reptile species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Grasslands,NIB reptile species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Grasslands,NIB total vertebrate species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Grasslands,NIB total vertebrate species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Grasslands,Number of terrestrial animal species,,,,,,,supplier,supplier
+Biodiversity,Grasslands,Number of terrestrial plant species,,,,,,,supplier,supplier
+Biodiversity,Grasslands,Oxidized nitrogen dry deposition (kg/ha),driver,,,driver,,driver,driver,driver
+Biodiversity,Grasslands,Oxidized nitrogen wet deposition (kg/ha),driver,,,driver,,driver,driver,driver
+Biodiversity,Grasslands,Percent cropland,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Grasslands,Percent GAP status 1 and 2,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Grasslands,Percent GAP status 1 and 2 and 3,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Grasslands,Percent GAP status 3,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Grasslands,Percent IUCN status IA,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Grasslands,Percent IUCN status IB,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Grasslands,Percent IUCN status II,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Grasslands,Percent IUCN status III,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Grasslands,Percent IUCN status IV,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Grasslands,Percent IUCN status V,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Grasslands,Percent IUCN status VI,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Grasslands,Percent land with any IUCN status,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Grasslands,Percent large natural areas,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Grasslands,Percent medium natural areas,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Grasslands,Percent natural land cover,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Grasslands,Percent natural land cover in buffer,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Grasslands,Percent rare ecosystem,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Grasslands,Percent rare ecosystem protected,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Grasslands,Percent small natural areas,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Grasslands,Reduced nitrogen dry deposition (kg/ha),driver,,,driver,,driver,driver,driver
+Biodiversity,Grasslands,Reduced nitrogen wet deposition (kg/ha),driver,,,driver,,driver,driver,driver
+Biodiversity,Grasslands,Total nitrogen deposition,driver,,,driver,,driver,driver,driver
+Biodiversity,Grasslands,Total number of terrestrial species,,,,,,,supplier,supplier
+Biodiversity,Grasslands,Total oxidized nitrogen deposition (kg/ha),driver,,,driver,,driver,driver,driver
+Biodiversity,Grasslands,Total reduced nitrogen deposition (kg/ha),driver,,,driver,,driver,driver,driver
+Biodiversity,Grasslands,Total reptile species richness - US,,,,,,,supplier,supplier
+Biodiversity,Grasslands,Total sulfur deposition (kg/ha),driver,,,driver,,driver,driver,driver
+Biodiversity,Scrublands / Shrublands,Maximum amphibian species richness: southeast,,,,,,,supplier,supplier
+Biodiversity,Scrublands / Shrublands,Maximum amphibian species richness: southwest,,,,,,,supplier,supplier
+Biodiversity,Scrublands / Shrublands,Maximum bat species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Scrublands / Shrublands,Maximum bat species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Scrublands / Shrublands,Maximum bird species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Scrublands / Shrublands,Maximum bird species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Scrublands / Shrublands,Maximum land cover diversity - southeast,,,,,,,supplier,supplier
+Biodiversity,Scrublands / Shrublands,Maximum land cover diversity - southwest,,,,,,,supplier,supplier
+Biodiversity,Scrublands / Shrublands,Maximum mammal species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Scrublands / Shrublands,Maximum mammal species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Scrublands / Shrublands,Maximum modeled threatened and endangered vertebrate species - southeast,,,,,,,supplier,supplier
+Biodiversity,Scrublands / Shrublands,Maximum modeled threatened and endangered vertebrate species - southwest,,,,,,,supplier,supplier
+Biodiversity,Scrublands / Shrublands,Maximum reptile species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Scrublands / Shrublands,Maximum reptile species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Scrublands / Shrublands,Maximum total vertebrate species richness: southeast,,,,,,,supplier,supplier
+Biodiversity,Scrublands / Shrublands,Maximum total vertebrate species richness: southwest,,,,,,,supplier,supplier
+Biodiversity,Scrublands / Shrublands,Mean amphibian species richness: southeast,,,,,,,supplier,supplier
+Biodiversity,Scrublands / Shrublands,Mean amphibian species richness: southwest,,,,,,,supplier,supplier
+Biodiversity,Scrublands / Shrublands,Mean bat species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Scrublands / Shrublands,Mean bat species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Scrublands / Shrublands,Mean bird species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Scrublands / Shrublands,Mean bird species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Scrublands / Shrublands,Mean land cover diversity - southeast,,,,,,,supplier,supplier
+Biodiversity,Scrublands / Shrublands,Mean land cover diversity - southwest,,,,,,,supplier,supplier
+Biodiversity,Scrublands / Shrublands,Mean mammal species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Scrublands / Shrublands,Mean mammal species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Scrublands / Shrublands,Mean modeled threatened and endangered vertebrate species - southeast,,,,,,,supplier,supplier
+Biodiversity,Scrublands / Shrublands,Mean modeled threatened and endangered vertebrate species - southwest,,,,,,,supplier,supplier
+Biodiversity,Scrublands / Shrublands,Mean reptile species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Scrublands / Shrublands,Mean reptile species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Scrublands / Shrublands,Mean total vertebrate species richness: southeast,,,,,,,supplier,supplier
+Biodiversity,Scrublands / Shrublands,Mean total vertebrate species richness: southwest,,,,,,,supplier,supplier
+Biodiversity,Scrublands / Shrublands,NIB amphibian species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Scrublands / Shrublands,NIB amphibian species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Scrublands / Shrublands,NIB bat species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Scrublands / Shrublands,NIB bat species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Scrublands / Shrublands,NIB bird species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Scrublands / Shrublands,NIB bird species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Scrublands / Shrublands,NIB land cover diversity - southeast,,,,,,,supplier,supplier
+Biodiversity,Scrublands / Shrublands,NIB land cover diversity - southwest,,,,,,,supplier,supplier
+Biodiversity,Scrublands / Shrublands,NIB mammal species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Scrublands / Shrublands,NIB mammal species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Scrublands / Shrublands,NIB modeled threatened and endangered vertebrate species - southeast,,,,,,,supplier,supplier
+Biodiversity,Scrublands / Shrublands,NIB modeled threatened and endangered vertebrate species - southwest,,,,,,,supplier,supplier
+Biodiversity,Scrublands / Shrublands,NIB reptile species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Scrublands / Shrublands,NIB reptile species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Scrublands / Shrublands,NIB total vertebrate species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Scrublands / Shrublands,NIB total vertebrate species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Scrublands / Shrublands,Number of terrestrial animal species,,,,,,,supplier,supplier
+Biodiversity,Scrublands / Shrublands,Number of terrestrial plant species,,,,,,,supplier,supplier
+Biodiversity,Scrublands / Shrublands,Percent forest,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Scrublands / Shrublands,Percent forest and wood wetlands in buffer,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Scrublands / Shrublands,Percent forest and woody wetlands,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Scrublands / Shrublands,Percent forest in buffer,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Scrublands / Shrublands,Percent GAP status 1 and 2,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Scrublands / Shrublands,Percent GAP status 1 and 2 and 3,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Scrublands / Shrublands,Percent GAP status 3,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Scrublands / Shrublands,Percent IUCN status IA,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Scrublands / Shrublands,Percent IUCN status IB,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Scrublands / Shrublands,Percent IUCN status II,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Scrublands / Shrublands,Percent IUCN status III,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Scrublands / Shrublands,Percent IUCN status IV,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Scrublands / Shrublands,Percent IUCN status V,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Scrublands / Shrublands,Percent IUCN status VI,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Scrublands / Shrublands,Percent land with any IUCN status,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Scrublands / Shrublands,Percent large natural areas,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Scrublands / Shrublands,Percent medium natural areas,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Scrublands / Shrublands,Percent natural land cover,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Scrublands / Shrublands,Percent natural land cover in buffer,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Scrublands / Shrublands,Percent rare ecosystem,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Scrublands / Shrublands,Percent rare ecosystem protected,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Scrublands / Shrublands,Percent small natural areas,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Scrublands / Shrublands,Total number of terrestrial species,,,,,,,supplier,supplier
+Biodiversity,Scrublands / Shrublands,Total reptile species richness - US,,,,,,,supplier,supplier
+Biodiversity,Barren / Rock and Sand,Maximum amphibian species richness: southeast,,,,,,,supplier,supplier
+Biodiversity,Barren / Rock and Sand,Maximum amphibian species richness: southwest,,,,,,,supplier,supplier
+Biodiversity,Barren / Rock and Sand,Maximum bat species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Barren / Rock and Sand,Maximum bat species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Barren / Rock and Sand,Maximum bird species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Barren / Rock and Sand,Maximum bird species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Barren / Rock and Sand,Maximum mammal species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Barren / Rock and Sand,Maximum mammal species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Barren / Rock and Sand,Maximum modeled threatened and endangered vertebrate species - southeast,,,,,,,supplier,supplier
+Biodiversity,Barren / Rock and Sand,Maximum modeled threatened and endangered vertebrate species - southwest,,,,,,,supplier,supplier
+Biodiversity,Barren / Rock and Sand,Maximum reptile species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Barren / Rock and Sand,Maximum reptile species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Barren / Rock and Sand,Maximum total vertebrate species richness: southeast,,,,,,,supplier,supplier
+Biodiversity,Barren / Rock and Sand,Maximum total vertebrate species richness: southwest,,,,,,,supplier,supplier
+Biodiversity,Barren / Rock and Sand,Mean amphibian species richness: southeast,,,,,,,supplier,supplier
+Biodiversity,Barren / Rock and Sand,Mean amphibian species richness: southwest,,,,,,,supplier,supplier
+Biodiversity,Barren / Rock and Sand,Mean bat species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Barren / Rock and Sand,Mean bat species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Barren / Rock and Sand,Mean bird species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Barren / Rock and Sand,Mean bird species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Barren / Rock and Sand,Mean mammal species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Barren / Rock and Sand,Mean mammal species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Barren / Rock and Sand,Mean modeled threatened and endangered vertebrate species - southeast,,,,,,,supplier,supplier
+Biodiversity,Barren / Rock and Sand,Mean modeled threatened and endangered vertebrate species - southwest,,,,,,,supplier,supplier
+Biodiversity,Barren / Rock and Sand,Mean reptile species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Barren / Rock and Sand,Mean reptile species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Barren / Rock and Sand,Mean total vertebrate species richness: southeast,,,,,,,supplier,supplier
+Biodiversity,Barren / Rock and Sand,Mean total vertebrate species richness: southwest,,,,,,,supplier,supplier
+Biodiversity,Barren / Rock and Sand,NIB amphibian species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Barren / Rock and Sand,NIB amphibian species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Barren / Rock and Sand,NIB bat species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Barren / Rock and Sand,NIB bat species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Barren / Rock and Sand,NIB bird species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Barren / Rock and Sand,NIB bird species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Barren / Rock and Sand,NIB mammal species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Barren / Rock and Sand,NIB mammal species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Barren / Rock and Sand,NIB modeled threatened and endangered vertebrate species - southeast,,,,,,,supplier,supplier
+Biodiversity,Barren / Rock and Sand,NIB modeled threatened and endangered vertebrate species - southwest,,,,,,,supplier,supplier
+Biodiversity,Barren / Rock and Sand,NIB reptile species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Barren / Rock and Sand,NIB reptile species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Barren / Rock and Sand,NIB total vertebrate species richness - southeast,,,,,,,supplier,supplier
+Biodiversity,Barren / Rock and Sand,NIB total vertebrate species richness - southwest,,,,,,,supplier,supplier
+Biodiversity,Barren / Rock and Sand,Number of terrestrial animal species,,,,,,,supplier,supplier
+Biodiversity,Barren / Rock and Sand,Number of terrestrial plant species,,,,,,,supplier,supplier
+Biodiversity,Barren / Rock and Sand,Percent GAP status 1 and 2,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Barren / Rock and Sand,Percent GAP status 1 and 2 and 3,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Barren / Rock and Sand,Percent GAP status 3,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Barren / Rock and Sand,Percent IUCN status IA,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Barren / Rock and Sand,Percent IUCN status IB,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Barren / Rock and Sand,Percent IUCN status II,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Barren / Rock and Sand,Percent IUCN status III,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Barren / Rock and Sand,Percent IUCN status IV,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Barren / Rock and Sand,Percent IUCN status V,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Barren / Rock and Sand,Percent IUCN status VI,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Barren / Rock and Sand,Percent land with any IUCN status,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Barren / Rock and Sand,Percent large natural areas,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Barren / Rock and Sand,Percent medium natural areas,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Barren / Rock and Sand,Percent natural land cover,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Barren / Rock and Sand,Percent natural land cover in buffer,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Barren / Rock and Sand,Percent rare ecosystem,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Barren / Rock and Sand,Percent rare ecosystem protected,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Barren / Rock and Sand,Percent small natural areas,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Barren / Rock and Sand,Total number of terrestrial species,,,,,,,supplier,supplier
+Biodiversity,Barren / Rock and Sand,Total reptile species richness - US,,,,,,,supplier,supplier
+Biodiversity,Tundra,Number of terrestrial animal species,,,,,,,supplier,supplier
+Biodiversity,Tundra,Number of terrestrial plant species,,,,,,,supplier,supplier
+Biodiversity,Tundra,Percent GAP status 1 and 2,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Tundra,Percent GAP status 1 and 2 and 3,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Tundra,Percent GAP status 3,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Tundra,Percent IUCN status IA,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Tundra,Percent IUCN status IB,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Tundra,Percent IUCN status II,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Tundra,Percent IUCN status III,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Tundra,Percent IUCN status IV,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Tundra,Percent IUCN status V,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Tundra,Percent IUCN status VI,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Tundra,Percent land with any IUCN status,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Tundra,Percent large natural areas,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Tundra,Percent medium natural areas,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Tundra,Percent natural land cover,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Tundra,Percent natural land cover in buffer,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Tundra,Percent rare ecosystem,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Tundra,Percent rare ecosystem protected,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Tundra,Percent small natural areas,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Tundra,Total number of terrestrial species,,,,,,,supplier,supplier
+Biodiversity,Ice and Snow,Number of terrestrial animal species,,,,,,,supplier,supplier
+Biodiversity,Ice and Snow,Number of terrestrial plant species,,,,,,,supplier,supplier
+Biodiversity,Ice and Snow,Percent GAP status 1 and 2,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Ice and Snow,Percent GAP status 1 and 2 and 3,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Ice and Snow,Percent GAP status 3,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Ice and Snow,Percent IUCN status IA,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Ice and Snow,Percent IUCN status IB,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Ice and Snow,Percent IUCN status II,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Ice and Snow,Percent IUCN status III,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Ice and Snow,Percent IUCN status IV,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Ice and Snow,Percent IUCN status V,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Ice and Snow,Percent IUCN status VI,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Ice and Snow,Percent land with any IUCN status,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Ice and Snow,Percent large natural areas,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Ice and Snow,Percent medium natural areas,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Ice and Snow,Percent natural land cover,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Ice and Snow,Percent natural land cover in buffer,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Ice and Snow,Percent rare ecosystem,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Ice and Snow,Percent rare ecosystem protected,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Ice and Snow,Percent small natural areas,supplier,,,supplier,supplier,supplier,supplier,supplier
+Biodiversity,Ice and Snow,Total number of terrestrial species,,,,,,,supplier,supplier
+Biodiversity,Atmosphere,Oxidized nitrogen dry deposition (kg/ha),driver,,,driver,,driver,driver,driver
+Biodiversity,Atmosphere,Oxidized nitrogen wet deposition (kg/ha),driver,,,driver,,driver,driver,driver
+Biodiversity,Atmosphere,Reduced nitrogen dry deposition (kg/ha),driver,,,driver,,driver,driver,driver
+Biodiversity,Atmosphere,Reduced nitrogen wet deposition (kg/ha),driver,,,driver,,driver,driver,driver
+Biodiversity,Atmosphere,Total nitrogen deposition,driver,,,driver,,driver,driver,driver
+Biodiversity,Atmosphere,Total oxidized nitrogen deposition (kg/ha),driver,,,driver,,driver,driver,driver
+Biodiversity,Atmosphere,Total reduced nitrogen deposition (kg/ha),driver,,,driver,,driver,driver,driver

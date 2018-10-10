@@ -1,0 +1,910 @@
+﻿Benefit_Category,Ecosystem_Types,Data_Layers,Materials,Nutrition,Energy,Mediation_of_Nuisances,Mediation_of_Flows,Maintenance_of_Conditions,Experiences,Interactions_with_Ecosystems
+Recreation,Agroecosystems,Maximum bat species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Agroecosystems,Maximum bat species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Agroecosystems,Maximum big game species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Agroecosystems,Maximum big game species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Agroecosystems,Maximum bird species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Agroecosystems,Maximum bird species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Agroecosystems,Maximum fur bearer species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Agroecosystems,Maximum fur bearer species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Agroecosystems,Maximum land cover diversity - southeast,supplier,,,,,,supplier,supplier
+Recreation,Agroecosystems,Maximum land cover diversity - southwest,supplier,,,,,,supplier,supplier
+Recreation,Agroecosystems,Maximum modeled threatened and endangered vertebrate species - southeast,supplier,,,,,,supplier,supplier
+Recreation,Agroecosystems,Maximum modeled threatened and endangered vertebrate species - southwest,supplier,,,,,,supplier,supplier
+Recreation,Agroecosystems,Maximum small game species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Agroecosystems,Maximum small game species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Agroecosystems,Maximum total harvestable species richness: southeast,supplier,,,,,,supplier,supplier
+Recreation,Agroecosystems,Maximum total harvestable species richness: southwest,supplier,,,,,,supplier,supplier
+Recreation,Agroecosystems,Maximum total vertebrate species richness: southeast,supplier,,,,,,supplier,supplier
+Recreation,Agroecosystems,Maximum total vertebrate species richness: southwest,supplier,,,,,,supplier,supplier
+Recreation,Agroecosystems,Maximum waterfowl species richness: southeast,supplier,,,,,,supplier,supplier
+Recreation,Agroecosystems,Maximum waterfowl species richness: southwest,supplier,,,,,,supplier,supplier
+Recreation,Agroecosystems,Mean bat species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Agroecosystems,Mean bat species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Agroecosystems,Mean big game species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Agroecosystems,Mean big game species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Agroecosystems,Mean bird species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Agroecosystems,Mean bird species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Agroecosystems,Mean fur bearer species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Agroecosystems,Mean fur bearer species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Agroecosystems,Mean land cover diversity - southeast,supplier,,,,,,supplier,supplier
+Recreation,Agroecosystems,Mean land cover diversity - southwest,supplier,,,,,,supplier,supplier
+Recreation,Agroecosystems,Mean modeled threatened and endangered vertebrate species - southeast,supplier,,,,,,supplier,supplier
+Recreation,Agroecosystems,Mean modeled threatened and endangered vertebrate species - southwest,supplier,,,,,,supplier,supplier
+Recreation,Agroecosystems,Mean small game species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Agroecosystems,Mean small game species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Agroecosystems,Mean total harvestable species richness: southeast,supplier,,,,,,supplier,supplier
+Recreation,Agroecosystems,Mean total harvestable species richness: southwest,supplier,,,,,,supplier,supplier
+Recreation,Agroecosystems,Mean total vertebrate species richness: southeast,supplier,,,,,,supplier,supplier
+Recreation,Agroecosystems,Mean total vertebrate species richness: southwest,supplier,,,,,,supplier,supplier
+Recreation,Agroecosystems,Mean waterfowl species richness: southeast,supplier,,,,,,supplier,supplier
+Recreation,Agroecosystems,Mean waterfowl species richness: southwest,supplier,,,,,,supplier,supplier
+Recreation,Agroecosystems,NIB bat species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Agroecosystems,NIB bat species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Agroecosystems,NIB big game species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Agroecosystems,NIB big game species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Agroecosystems,NIB bird species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Agroecosystems,NIB bird species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Agroecosystems,NIB fur bearer species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Agroecosystems,NIB fur bearer species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Agroecosystems,NIB land cover diversity - southeast,supplier,,,,,,supplier,supplier
+Recreation,Agroecosystems,NIB land cover diversity - southwest,supplier,,,,,,supplier,supplier
+Recreation,Agroecosystems,NIB modeled threatened and endangered vertebrate species - southeast,supplier,,,,,,supplier,supplier
+Recreation,Agroecosystems,NIB modeled threatened and endangered vertebrate species - southwest,supplier,,,,,,supplier,supplier
+Recreation,Agroecosystems,NIB small game species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Agroecosystems,NIB small game species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Agroecosystems,NIB total harvestable species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Agroecosystems,NIB total harvestable species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Agroecosystems,NIB total vertebrate species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Agroecosystems,NIB total vertebrate species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Agroecosystems,NIB waterfowl species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Agroecosystems,NIB waterfowl species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Agroecosystems,Number of terrestrial animal species,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Agroecosystems,Oxidized nitrogen dry deposition (kg/ha),driver,,,driver,driver,driver,driver,driver
+Recreation,Agroecosystems,Oxidized nitrogen wet deposition (kg/ha),driver,,,driver,driver,driver,driver,driver
+Recreation,Agroecosystems,Percent cropland,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Agroecosystems,Percent forest,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Agroecosystems,Percent forest and wood wetlands in buffer,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Agroecosystems,Percent forest and woody wetlands,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Agroecosystems,Percent forest in buffer,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Agroecosystems,Percent GAP status 1 and 2,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Agroecosystems,Percent GAP status 1 and 2 and 3,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Agroecosystems,Percent GAP status 3,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Agroecosystems,Percent IUCN status IA,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Agroecosystems,Percent IUCN status IB,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Agroecosystems,Percent IUCN status II,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Agroecosystems,Percent IUCN status III,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Agroecosystems,Percent IUCN status V,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Agroecosystems,Percent IUCN status VI,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Agroecosystems,Percent land with any IUCN status,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Agroecosystems,Percent pasture,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Agroecosystems,Reduced nitrogen dry deposition (kg/ha),driver,,,driver,driver,driver,driver,driver
+Recreation,Agroecosystems,Reduced nitrogen wet deposition (kg/ha),driver,,,driver,driver,driver,driver,driver
+Recreation,Agroecosystems,Sulfur dry deposition (kg/ha),driver,,,driver,driver,driver,driver,driver
+Recreation,Agroecosystems,Sulfur wet deposition (kg/ha),driver,,,driver,driver,driver,driver,driver
+Recreation,Agroecosystems,Total nitrogen deposition,driver,,,driver,driver,driver,driver,driver
+Recreation,Agroecosystems,Total number of terrestrial species,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Agroecosystems,Total oxidized nitrogen deposition (kg/ha),driver,,,driver,driver,driver,driver,driver
+Recreation,Agroecosystems,Total reduced nitrogen deposition (kg/ha),driver,,,driver,driver,driver,driver,driver
+Recreation,Agroecosystems,Total sulfur deposition (kg/ha),driver,,,driver,driver,driver,driver,driver
+Recreation,Atmosphere,Average annual precipitation (inches/yr),driver,,,driver,driver,driver,driver,driver
+Recreation,Atmosphere,Oxidized nitrogen dry deposition (kg/ha),driver,,,driver,driver,driver,driver,driver
+Recreation,Atmosphere,Oxidized nitrogen wet deposition (kg/ha),driver,,,driver,driver,driver,driver,driver
+Recreation,Atmosphere,Reduced nitrogen dry deposition (kg/ha),driver,,,driver,driver,driver,driver,driver
+Recreation,Atmosphere,Reduced nitrogen wet deposition (kg/ha),driver,,,driver,driver,driver,driver,driver
+Recreation,Atmosphere,Total nitrogen deposition,driver,,,driver,driver,driver,driver,driver
+Recreation,Atmosphere,Total oxidized nitrogen deposition (kg/ha),driver,,,driver,driver,driver,driver,driver
+Recreation,Atmosphere,Total reduced nitrogen deposition (kg/ha),driver,,,driver,driver,driver,driver,driver
+Recreation,Barren / Rock and Sand,Maximum bat species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Barren / Rock and Sand,Maximum bat species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Barren / Rock and Sand,Maximum big game species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Barren / Rock and Sand,Maximum big game species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Barren / Rock and Sand,Maximum bird species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Barren / Rock and Sand,Maximum bird species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Barren / Rock and Sand,Maximum fur bearer species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Barren / Rock and Sand,Maximum fur bearer species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Barren / Rock and Sand,Maximum modeled threatened and endangered vertebrate species - southeast,supplier,,,,,,supplier,supplier
+Recreation,Barren / Rock and Sand,Maximum modeled threatened and endangered vertebrate species - southwest,supplier,,,,,,supplier,supplier
+Recreation,Barren / Rock and Sand,Maximum small game species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Barren / Rock and Sand,Maximum small game species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Barren / Rock and Sand,Maximum total harvestable species richness: southeast,supplier,,,,,,supplier,supplier
+Recreation,Barren / Rock and Sand,Maximum total harvestable species richness: southwest,supplier,,,,,,supplier,supplier
+Recreation,Barren / Rock and Sand,Maximum total vertebrate species richness: southeast,supplier,,,,,,supplier,supplier
+Recreation,Barren / Rock and Sand,Maximum total vertebrate species richness: southwest,supplier,,,,,,supplier,supplier
+Recreation,Barren / Rock and Sand,Maximum waterfowl species richness: southeast,supplier,,,,,,supplier,supplier
+Recreation,Barren / Rock and Sand,Maximum waterfowl species richness: southwest,supplier,,,,,,supplier,supplier
+Recreation,Barren / Rock and Sand,Mean bat species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Barren / Rock and Sand,Mean bat species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Barren / Rock and Sand,Mean big game species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Barren / Rock and Sand,Mean big game species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Barren / Rock and Sand,Mean bird species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Barren / Rock and Sand,Mean bird species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Barren / Rock and Sand,Mean fur bearer species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Barren / Rock and Sand,Mean fur bearer species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Barren / Rock and Sand,Mean modeled threatened and endangered vertebrate species - southeast,supplier,,,,,,supplier,supplier
+Recreation,Barren / Rock and Sand,Mean modeled threatened and endangered vertebrate species - southwest,supplier,,,,,,supplier,supplier
+Recreation,Barren / Rock and Sand,Mean small game species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Barren / Rock and Sand,Mean small game species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Barren / Rock and Sand,Mean total harvestable species richness: southeast,supplier,,,,,,supplier,supplier
+Recreation,Barren / Rock and Sand,Mean total harvestable species richness: southwest,supplier,,,,,,supplier,supplier
+Recreation,Barren / Rock and Sand,Mean total vertebrate species richness: southeast,supplier,,,,,,supplier,supplier
+Recreation,Barren / Rock and Sand,Mean total vertebrate species richness: southwest,supplier,,,,,,supplier,supplier
+Recreation,Barren / Rock and Sand,Mean waterfowl species richness: southeast,supplier,,,,,,supplier,supplier
+Recreation,Barren / Rock and Sand,Mean waterfowl species richness: southwest,supplier,,,,,,supplier,supplier
+Recreation,Barren / Rock and Sand,NIB bat species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Barren / Rock and Sand,NIB bat species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Barren / Rock and Sand,NIB big game species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Barren / Rock and Sand,NIB big game species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Barren / Rock and Sand,NIB bird species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Barren / Rock and Sand,NIB bird species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Barren / Rock and Sand,NIB fur bearer species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Barren / Rock and Sand,NIB fur bearer species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Barren / Rock and Sand,NIB modeled threatened and endangered vertebrate species - southeast,supplier,,,,,,supplier,supplier
+Recreation,Barren / Rock and Sand,NIB modeled threatened and endangered vertebrate species - southwest,supplier,,,,,,supplier,supplier
+Recreation,Barren / Rock and Sand,NIB small game species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Barren / Rock and Sand,NIB small game species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Barren / Rock and Sand,NIB total harvestable species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Barren / Rock and Sand,NIB total harvestable species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Barren / Rock and Sand,NIB total vertebrate species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Barren / Rock and Sand,NIB total vertebrate species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Barren / Rock and Sand,NIB waterfowl species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Barren / Rock and Sand,NIB waterfowl species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Barren / Rock and Sand,Number of terrestrial animal species,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Barren / Rock and Sand,Percent GAP status 1 and 2,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Barren / Rock and Sand,Percent GAP status 1 and 2 and 3,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Barren / Rock and Sand,Percent GAP status 3,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Barren / Rock and Sand,Percent IUCN status IA,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Barren / Rock and Sand,Percent IUCN status IB,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Barren / Rock and Sand,Percent IUCN status II,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Barren / Rock and Sand,Percent IUCN status III,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Barren / Rock and Sand,Percent IUCN status IV,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Barren / Rock and Sand,Percent IUCN status V,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Barren / Rock and Sand,Percent IUCN status VI,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Barren / Rock and Sand,Percent land with any IUCN status,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Barren / Rock and Sand,Percent large natural areas,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Barren / Rock and Sand,Percent medium natural areas,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Barren / Rock and Sand,Percent natural land cover,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Barren / Rock and Sand,Percent natural land cover in buffer,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Barren / Rock and Sand,Percent rare ecosystem,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Barren / Rock and Sand,Percent rare ecosystem protected,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Barren / Rock and Sand,Percent small natural areas,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Barren / Rock and Sand,Total number of terrestrial species,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Created Greenspace,Maximum bat species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Created Greenspace,Maximum bat species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Created Greenspace,Maximum big game species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Created Greenspace,Maximum big game species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Created Greenspace,Maximum bird species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Created Greenspace,Maximum bird species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Created Greenspace,Maximum fur bearer species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Created Greenspace,Maximum fur bearer species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Created Greenspace,Maximum land cover diversity - southeast,supplier,,,,,,supplier,supplier
+Recreation,Created Greenspace,Maximum land cover diversity - southwest,supplier,,,,,,supplier,supplier
+Recreation,Created Greenspace,Maximum modeled threatened and endangered vertebrate species - southeast,supplier,,,,,,supplier,supplier
+Recreation,Created Greenspace,Maximum modeled threatened and endangered vertebrate species - southwest,supplier,,,,,,supplier,supplier
+Recreation,Created Greenspace,Maximum small game species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Created Greenspace,Maximum small game species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Created Greenspace,Maximum total harvestable species richness: southeast,supplier,,,,,,supplier,supplier
+Recreation,Created Greenspace,Maximum total harvestable species richness: southwest,supplier,,,,,,supplier,supplier
+Recreation,Created Greenspace,Maximum total vertebrate species richness: southeast,supplier,,,,,,supplier,supplier
+Recreation,Created Greenspace,Maximum total vertebrate species richness: southwest,supplier,,,,,,supplier,supplier
+Recreation,Created Greenspace,Maximum waterfowl species richness: southeast,supplier,,,,,,supplier,supplier
+Recreation,Created Greenspace,Maximum waterfowl species richness: southwest,supplier,,,,,,supplier,supplier
+Recreation,Created Greenspace,Mean bat species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Created Greenspace,Mean bat species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Created Greenspace,Mean big game species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Created Greenspace,Mean big game species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Created Greenspace,Mean bird species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Created Greenspace,Mean bird species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Created Greenspace,Mean fur bearer species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Created Greenspace,Mean fur bearer species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Created Greenspace,Mean land cover diversity - southeast,supplier,,,,,,supplier,supplier
+Recreation,Created Greenspace,Mean land cover diversity - southwest,supplier,,,,,,supplier,supplier
+Recreation,Created Greenspace,Mean modeled threatened and endangered vertebrate species - southeast,supplier,,,,,,supplier,supplier
+Recreation,Created Greenspace,Mean modeled threatened and endangered vertebrate species - southwest,supplier,,,,,,supplier,supplier
+Recreation,Created Greenspace,Mean small game species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Created Greenspace,Mean small game species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Created Greenspace,Mean total harvestable species richness: southeast,supplier,,,,,,supplier,supplier
+Recreation,Created Greenspace,Mean total harvestable species richness: southwest,supplier,,,,,,supplier,supplier
+Recreation,Created Greenspace,Mean total vertebrate species richness: southeast,supplier,,,,,,supplier,supplier
+Recreation,Created Greenspace,Mean total vertebrate species richness: southwest,supplier,,,,,,supplier,supplier
+Recreation,Created Greenspace,Mean waterfowl species richness: southeast,supplier,,,,,,supplier,supplier
+Recreation,Created Greenspace,Mean waterfowl species richness: southwest,supplier,,,,,,supplier,supplier
+Recreation,Created Greenspace,NIB bat species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Created Greenspace,NIB bat species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Created Greenspace,NIB big game species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Created Greenspace,NIB big game species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Created Greenspace,NIB bird species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Created Greenspace,NIB bird species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Created Greenspace,NIB fur bearer species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Created Greenspace,NIB fur bearer species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Created Greenspace,NIB land cover diversity - southeast,supplier,,,,,,supplier,supplier
+Recreation,Created Greenspace,NIB land cover diversity - southwest,supplier,,,,,,supplier,supplier
+Recreation,Created Greenspace,NIB modeled threatened and endangered vertebrate species - southeast,supplier,,,,,,supplier,supplier
+Recreation,Created Greenspace,NIB modeled threatened and endangered vertebrate species - southwest,supplier,,,,,,supplier,supplier
+Recreation,Created Greenspace,NIB small game species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Created Greenspace,NIB small game species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Created Greenspace,NIB total harvestable species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Created Greenspace,NIB total harvestable species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Created Greenspace,NIB total vertebrate species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Created Greenspace,NIB total vertebrate species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Created Greenspace,NIB waterfowl species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Created Greenspace,NIB waterfowl species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Created Greenspace,Number of terrestrial animal species,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Created Greenspace,Percent forest,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Created Greenspace,Percent forest and wood wetlands in buffer,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Created Greenspace,Percent forest and woody wetlands,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Created Greenspace,Percent forest in buffer,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Created Greenspace,Percent IUCN status IV,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Created Greenspace,Percent IUCN status V,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Created Greenspace,Percent IUCN status VI,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Created Greenspace,Percent land with any IUCN status,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Created Greenspace,Percent rare ecosystem,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Created Greenspace,Percent rare ecosystem protected,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Created Greenspace,Total number of terrestrial species,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Estuaries and Near Coastal Marine,Maximum big game species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Estuaries and Near Coastal Marine,Maximum bird species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Estuaries and Near Coastal Marine,Maximum fur bearer species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Estuaries and Near Coastal Marine,Maximum modeled threatened and endangered vertebrate species - southeast,supplier,,,,,,supplier,supplier
+Recreation,Estuaries and Near Coastal Marine,Maximum small game species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Estuaries and Near Coastal Marine,Maximum total harvestable species richness: southeast,supplier,,,,,,supplier,supplier
+Recreation,Estuaries and Near Coastal Marine,Maximum total vertebrate species richness: southeast,supplier,,,,,,supplier,supplier
+Recreation,Estuaries and Near Coastal Marine,Maximum waterfowl species richness: southeast,supplier,,,,,,supplier,supplier
+Recreation,Estuaries and Near Coastal Marine,Mean big game species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Estuaries and Near Coastal Marine,Mean bird species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Estuaries and Near Coastal Marine,Mean fur bearer species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Estuaries and Near Coastal Marine,Mean modeled threatened and endangered vertebrate species - southeast,supplier,,,,,,supplier,supplier
+Recreation,Estuaries and Near Coastal Marine,Mean small game species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Estuaries and Near Coastal Marine,Mean total harvestable species richness: southeast,supplier,,,,,,supplier,supplier
+Recreation,Estuaries and Near Coastal Marine,Mean total vertebrate species richness: southeast,supplier,,,,,,supplier,supplier
+Recreation,Estuaries and Near Coastal Marine,Mean waterfowl species richness: southeast,supplier,,,,,,supplier,supplier
+Recreation,Estuaries and Near Coastal Marine,NIB big game species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Estuaries and Near Coastal Marine,NIB bird species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Estuaries and Near Coastal Marine,NIB fur bearer species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Estuaries and Near Coastal Marine,NIB modeled threatened and endangered vertebrate species - southeast,supplier,,,,,,supplier,supplier
+Recreation,Estuaries and Near Coastal Marine,NIB small game species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Estuaries and Near Coastal Marine,NIB total harvestable species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Estuaries and Near Coastal Marine,NIB total vertebrate species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Estuaries and Near Coastal Marine,NIB waterfowl species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Estuaries and Near Coastal Marine,Number of aquatic animal species,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Estuaries and Near Coastal Marine,Number of aquatic plant species,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Estuaries and Near Coastal Marine,Oxidized nitrogen dry deposition (kg/ha),driver,,,driver,driver,driver,driver,driver
+Recreation,Estuaries and Near Coastal Marine,Oxidized nitrogen wet deposition (kg/ha),driver,,,driver,driver,driver,driver,driver
+Recreation,Estuaries and Near Coastal Marine,Percent GAP status 1 and 2,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Estuaries and Near Coastal Marine,Percent GAP status 1 and 2 and 3,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Estuaries and Near Coastal Marine,Percent GAP status 3,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Estuaries and Near Coastal Marine,Percent IUCN status IA,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Estuaries and Near Coastal Marine,Percent IUCN status IB,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Estuaries and Near Coastal Marine,Percent IUCN status II,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Estuaries and Near Coastal Marine,Percent IUCN status III,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Estuaries and Near Coastal Marine,Percent IUCN status IV,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Estuaries and Near Coastal Marine,Percent IUCN status V,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Estuaries and Near Coastal Marine,Percent IUCN status VI,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Estuaries and Near Coastal Marine,Percent land with any IUCN status,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Estuaries and Near Coastal Marine,Percent large natural areas,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Estuaries and Near Coastal Marine,Percent medium natural areas,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Estuaries and Near Coastal Marine,Percent rare ecosystem,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Estuaries and Near Coastal Marine,Percent rare ecosystem protected,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Estuaries and Near Coastal Marine,Percent small natural areas,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Estuaries and Near Coastal Marine,Reduced nitrogen dry deposition (kg/ha),driver,,,driver,driver,driver,driver,driver
+Recreation,Estuaries and Near Coastal Marine,Reduced nitrogen wet deposition (kg/ha),driver,,,driver,driver,driver,driver,driver
+Recreation,Estuaries and Near Coastal Marine,Sulfur dry deposition (kg/ha),driver,,,driver,driver,driver,driver,driver
+Recreation,Estuaries and Near Coastal Marine,Sulfur wet deposition (kg/ha),driver,,,driver,driver,driver,driver,driver
+Recreation,Estuaries and Near Coastal Marine,Total nitrogen deposition,driver,,,driver,driver,driver,driver,driver
+Recreation,Estuaries and Near Coastal Marine,Total number of aquatic species,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Estuaries and Near Coastal Marine,Total oxidized nitrogen deposition (kg/ha),driver,,,driver,driver,driver,driver,driver
+Recreation,Estuaries and Near Coastal Marine,Total reduced nitrogen deposition (kg/ha),driver,,,driver,driver,driver,driver,driver
+Recreation,Estuaries and Near Coastal Marine,Total sulfur deposition (kg/ha),driver,,,driver,driver,driver,driver,driver
+Recreation,Forests,Maximum bat species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Forests,Maximum bat species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Forests,Maximum big game species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Forests,Maximum big game species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Forests,Maximum bird species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Forests,Maximum bird species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Forests,Maximum fur bearer species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Forests,Maximum fur bearer species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Forests,Maximum land cover diversity - southeast,supplier,,,,,,supplier,supplier
+Recreation,Forests,Maximum land cover diversity - southwest,supplier,,,,,,supplier,supplier
+Recreation,Forests,Maximum modeled threatened and endangered vertebrate species - southeast,supplier,,,,,,supplier,supplier
+Recreation,Forests,Maximum modeled threatened and endangered vertebrate species - southwest,supplier,,,,,,supplier,supplier
+Recreation,Forests,Maximum small game species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Forests,Maximum small game species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Forests,Maximum total harvestable species richness: southeast,supplier,,,,,,supplier,supplier
+Recreation,Forests,Maximum total harvestable species richness: southwest,supplier,,,,,,supplier,supplier
+Recreation,Forests,Maximum total vertebrate species richness: southeast,supplier,,,,,,supplier,supplier
+Recreation,Forests,Maximum total vertebrate species richness: southwest,supplier,,,,,,supplier,supplier
+Recreation,Forests,Maximum waterfowl species richness: southeast,supplier,,,,,,supplier,supplier
+Recreation,Forests,Maximum waterfowl species richness: southwest,supplier,,,,,,supplier,supplier
+Recreation,Forests,Mean bat species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Forests,Mean bat species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Forests,Mean big game species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Forests,Mean big game species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Forests,Mean bird species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Forests,Mean bird species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Forests,Mean fur bearer species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Forests,Mean fur bearer species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Forests,Mean land cover diversity - southeast,supplier,,,,,,supplier,supplier
+Recreation,Forests,Mean land cover diversity - southwest,supplier,,,,,,supplier,supplier
+Recreation,Forests,Mean modeled threatened and endangered vertebrate species - southeast,supplier,,,,,,supplier,supplier
+Recreation,Forests,Mean modeled threatened and endangered vertebrate species - southwest,supplier,,,,,,supplier,supplier
+Recreation,Forests,Mean small game species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Forests,Mean small game species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Forests,Mean total harvestable species richness: southeast,supplier,,,,,,supplier,supplier
+Recreation,Forests,Mean total harvestable species richness: southwest,supplier,,,,,,supplier,supplier
+Recreation,Forests,Mean total vertebrate species richness: southeast,supplier,,,,,,supplier,supplier
+Recreation,Forests,Mean total vertebrate species richness: southwest,supplier,,,,,,supplier,supplier
+Recreation,Forests,Mean waterfowl species richness: southeast,supplier,,,,,,supplier,supplier
+Recreation,Forests,Mean waterfowl species richness: southwest,supplier,,,,,,supplier,supplier
+Recreation,Forests,NIB bat species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Forests,NIB bat species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Forests,NIB big game species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Forests,NIB big game species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Forests,NIB bird species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Forests,NIB bird species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Forests,NIB fur bearer species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Forests,NIB fur bearer species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Forests,NIB land cover diversity - southeast,supplier,,,,,,supplier,supplier
+Recreation,Forests,NIB land cover diversity - southwest,supplier,,,,,,supplier,supplier
+Recreation,Forests,NIB modeled threatened and endangered vertebrate species - southeast,supplier,,,,,,supplier,supplier
+Recreation,Forests,NIB modeled threatened and endangered vertebrate species - southwest,supplier,,,,,,supplier,supplier
+Recreation,Forests,NIB small game species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Forests,NIB small game species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Forests,NIB total harvestable species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Forests,NIB total harvestable species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Forests,NIB total vertebrate species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Forests,NIB total vertebrate species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Forests,NIB waterfowl species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Forests,NIB waterfowl species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Forests,Number of terrestrial animal species,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Forests,Oxidized nitrogen dry deposition (kg/ha),driver,,,driver,driver,driver,driver,driver
+Recreation,Forests,Oxidized nitrogen wet deposition (kg/ha),driver,,,driver,driver,driver,driver,driver
+Recreation,Forests,Percent forest,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Forests,Percent forest and wood wetlands in buffer,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Forests,Percent forest and woody wetlands,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Forests,Percent forest in buffer,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Forests,Percent GAP status 1 and 2,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Forests,Percent GAP status 1 and 2 and 3,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Forests,Percent GAP status 3,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Forests,Percent IUCN status IA,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Forests,Percent IUCN status IB,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Forests,Percent IUCN status II,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Forests,Percent IUCN status III,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Forests,Percent IUCN status IV,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Forests,Percent IUCN status V,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Forests,Percent IUCN status VI,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Forests,Percent land with any IUCN status,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Forests,Percent large natural areas,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Forests,Percent medium natural areas,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Forests,Percent natural land cover,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Forests,Percent natural land cover in buffer,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Forests,Percent rare ecosystem,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Forests,Percent rare ecosystem protected,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Forests,Percent small natural areas,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Forests,Reduced nitrogen dry deposition (kg/ha),driver,,,driver,driver,driver,driver,driver
+Recreation,Forests,Reduced nitrogen wet deposition (kg/ha),driver,,,driver,driver,driver,driver,driver
+Recreation,Forests,Sulfur dry deposition (kg/ha),driver,,,driver,driver,driver,driver,driver
+Recreation,Forests,Sulfur wet deposition (kg/ha),driver,,,driver,driver,driver,driver,driver
+Recreation,Forests,Total nitrogen deposition,driver,,,driver,driver,driver,driver,driver
+Recreation,Forests,Total number of terrestrial species,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Forests,Total oxidized nitrogen deposition (kg/ha),driver,,,driver,driver,driver,driver,driver
+Recreation,Forests,Total reduced nitrogen deposition (kg/ha),driver,,,driver,driver,driver,driver,driver
+Recreation,Forests,Total sulfur deposition (kg/ha),driver,,,driver,driver,driver,driver,driver
+Recreation,Grasslands,Maximum bat species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Grasslands,Maximum bat species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Grasslands,Maximum big game species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Grasslands,Maximum big game species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Grasslands,Maximum bird species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Grasslands,Maximum bird species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Grasslands,Maximum fur bearer species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Grasslands,Maximum fur bearer species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Grasslands,Maximum land cover diversity - southeast,supplier,,,,,,supplier,supplier
+Recreation,Grasslands,Maximum land cover diversity - southwest,supplier,,,,,,supplier,supplier
+Recreation,Grasslands,Maximum modeled threatened and endangered vertebrate species - southeast,supplier,,,,,,supplier,supplier
+Recreation,Grasslands,Maximum modeled threatened and endangered vertebrate species - southwest,supplier,,,,,,supplier,supplier
+Recreation,Grasslands,Maximum small game species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Grasslands,Maximum small game species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Grasslands,Maximum total harvestable species richness: southeast,supplier,,,,,,supplier,supplier
+Recreation,Grasslands,Maximum total harvestable species richness: southwest,supplier,,,,,,supplier,supplier
+Recreation,Grasslands,Maximum total vertebrate species richness: southeast,supplier,,,,,,supplier,supplier
+Recreation,Grasslands,Maximum total vertebrate species richness: southwest,supplier,,,,,,supplier,supplier
+Recreation,Grasslands,Maximum waterfowl species richness: southeast,supplier,,,,,,supplier,supplier
+Recreation,Grasslands,Maximum waterfowl species richness: southwest,supplier,,,,,,supplier,supplier
+Recreation,Grasslands,Mean bat species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Grasslands,Mean bat species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Grasslands,Mean big game species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Grasslands,Mean big game species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Grasslands,Mean bird species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Grasslands,Mean bird species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Grasslands,Mean fur bearer species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Grasslands,Mean fur bearer species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Grasslands,Mean land cover diversity - southeast,supplier,,,,,,supplier,supplier
+Recreation,Grasslands,Mean land cover diversity - southwest,supplier,,,,,,supplier,supplier
+Recreation,Grasslands,Mean modeled threatened and endangered vertebrate species - southeast,supplier,,,,,,supplier,supplier
+Recreation,Grasslands,Mean modeled threatened and endangered vertebrate species - southwest,supplier,,,,,,supplier,supplier
+Recreation,Grasslands,Mean small game species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Grasslands,Mean small game species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Grasslands,Mean total harvestable species richness: southeast,supplier,,,,,,supplier,supplier
+Recreation,Grasslands,Mean total harvestable species richness: southwest,supplier,,,,,,supplier,supplier
+Recreation,Grasslands,Mean total vertebrate species richness: southeast,supplier,,,,,,supplier,supplier
+Recreation,Grasslands,Mean total vertebrate species richness: southwest,supplier,,,,,,supplier,supplier
+Recreation,Grasslands,Mean waterfowl species richness: southeast,supplier,,,,,,supplier,supplier
+Recreation,Grasslands,Mean waterfowl species richness: southwest,supplier,,,,,,supplier,supplier
+Recreation,Grasslands,NIB bat species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Grasslands,NIB bat species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Grasslands,NIB big game species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Grasslands,NIB big game species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Grasslands,NIB bird species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Grasslands,NIB bird species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Grasslands,NIB fur bearer species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Grasslands,NIB fur bearer species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Grasslands,NIB land cover diversity - southeast,supplier,,,,,,supplier,supplier
+Recreation,Grasslands,NIB land cover diversity - southwest,supplier,,,,,,supplier,supplier
+Recreation,Grasslands,NIB modeled threatened and endangered vertebrate species - southeast,supplier,,,,,,supplier,supplier
+Recreation,Grasslands,NIB modeled threatened and endangered vertebrate species - southwest,supplier,,,,,,supplier,supplier
+Recreation,Grasslands,NIB small game species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Grasslands,NIB small game species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Grasslands,NIB total harvestable species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Grasslands,NIB total harvestable species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Grasslands,NIB total vertebrate species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Grasslands,NIB total vertebrate species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Grasslands,NIB waterfowl species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Grasslands,NIB waterfowl species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Grasslands,Number of terrestrial animal species,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Grasslands,Oxidized nitrogen dry deposition (kg/ha),driver,,,driver,driver,driver,driver,driver
+Recreation,Grasslands,Oxidized nitrogen wet deposition (kg/ha),driver,,,driver,driver,driver,driver,driver
+Recreation,Grasslands,Percent cropland,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Grasslands,Percent GAP status 1 and 2,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Grasslands,Percent GAP status 1 and 2 and 3,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Grasslands,Percent GAP status 3,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Grasslands,Percent IUCN status IA,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Grasslands,Percent IUCN status IB,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Grasslands,Percent IUCN status II,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Grasslands,Percent IUCN status III,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Grasslands,Percent IUCN status IV,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Grasslands,Percent IUCN status V,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Grasslands,Percent IUCN status VI,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Grasslands,Percent land with any IUCN status,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Grasslands,Percent large natural areas,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Grasslands,Percent medium natural areas,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Grasslands,Percent natural land cover,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Grasslands,Percent natural land cover in buffer,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Grasslands,Percent rare ecosystem,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Grasslands,Percent rare ecosystem protected,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Grasslands,Percent small natural areas,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Grasslands,Reduced nitrogen dry deposition (kg/ha),driver,,,driver,driver,driver,driver,driver
+Recreation,Grasslands,Reduced nitrogen wet deposition (kg/ha),driver,,,driver,driver,driver,driver,driver
+Recreation,Grasslands,Sulfur dry deposition (kg/ha),driver,,,driver,driver,driver,driver,driver
+Recreation,Grasslands,Sulfur wet deposition (kg/ha),driver,,,driver,driver,driver,driver,driver
+Recreation,Grasslands,Total nitrogen deposition,driver,,,driver,,driver,driver,driver
+Recreation,Grasslands,Total number of terrestrial species,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Grasslands,Total oxidized nitrogen deposition (kg/ha),driver,,,driver,driver,driver,driver,driver
+Recreation,Grasslands,Total reduced nitrogen deposition (kg/ha),driver,,,driver,driver,driver,driver,driver
+Recreation,Grasslands,Total sulfur deposition (kg/ha),driver,,,driver,,driver,driver,driver
+Recreation,Groundwater,Number of aquatic animal species,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Groundwater,Number of aquatic plant species,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Groundwater,Percent GAP status 1 and 2,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Groundwater,Percent GAP status 1 and 2 and 3,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Groundwater,Percent GAP status 3,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Groundwater,Percent IUCN status IA,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Groundwater,Percent IUCN status IB,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Groundwater,Percent IUCN status II,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Groundwater,Percent IUCN status III,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Groundwater,Percent IUCN status IV,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Groundwater,Percent IUCN status V,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Groundwater,Percent IUCN status VI,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Groundwater,Percent land with any IUCN status,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Groundwater,Percent rare ecosystem,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Groundwater,Percent rare ecosystem protected,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Groundwater,Total number of aquatic species,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Ice and Snow,Number of terrestrial animal species,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Ice and Snow,Percent GAP status 1 and 2,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Ice and Snow,Percent GAP status 1 and 2 and 3,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Ice and Snow,Percent GAP status 3,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Ice and Snow,Percent IUCN status IA,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Ice and Snow,Percent IUCN status IB,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Ice and Snow,Percent IUCN status II,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Ice and Snow,Percent IUCN status III,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Ice and Snow,Percent IUCN status IV,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Ice and Snow,Percent IUCN status V,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Ice and Snow,Percent IUCN status VI,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Ice and Snow,Percent land with any IUCN status,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Ice and Snow,Percent large natural areas,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Ice and Snow,Percent medium natural areas,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Ice and Snow,Percent natural land cover,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Ice and Snow,Percent natural land cover in buffer,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Ice and Snow,Percent rare ecosystem,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Ice and Snow,Percent rare ecosystem protected,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Ice and Snow,Percent small natural areas,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Ice and Snow,Total number of terrestrial species,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Lakes and Ponds,Maximum bat species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Lakes and Ponds,Maximum bat species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Lakes and Ponds,Maximum big game species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Lakes and Ponds,Maximum big game species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Lakes and Ponds,Maximum bird species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Lakes and Ponds,Maximum bird species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Lakes and Ponds,Maximum fur bearer species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Lakes and Ponds,Maximum fur bearer species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Lakes and Ponds,Maximum modeled threatened and endangered vertebrate species - southeast,supplier,,,,,,supplier,supplier
+Recreation,Lakes and Ponds,Maximum modeled threatened and endangered vertebrate species - southwest,supplier,,,,,,supplier,supplier
+Recreation,Lakes and Ponds,Maximum small game species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Lakes and Ponds,Maximum small game species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Lakes and Ponds,Maximum total harvestable species richness: southeast,supplier,,,,,,supplier,supplier
+Recreation,Lakes and Ponds,Maximum total harvestable species richness: southwest,supplier,,,,,,supplier,supplier
+Recreation,Lakes and Ponds,Maximum total vertebrate species richness: southeast,supplier,,,,,,supplier,supplier
+Recreation,Lakes and Ponds,Maximum total vertebrate species richness: southwest,supplier,,,,,,supplier,supplier
+Recreation,Lakes and Ponds,Maximum waterfowl species richness: southeast,supplier,,,,,,supplier,supplier
+Recreation,Lakes and Ponds,Maximum waterfowl species richness: southwest,supplier,,,,,,supplier,supplier
+Recreation,Lakes and Ponds,Mean bat species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Lakes and Ponds,Mean bat species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Lakes and Ponds,Mean big game species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Lakes and Ponds,Mean big game species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Lakes and Ponds,Mean bird species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Lakes and Ponds,Mean bird species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Lakes and Ponds,Mean fur bearer species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Lakes and Ponds,Mean fur bearer species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Lakes and Ponds,Mean modeled threatened and endangered vertebrate species - southeast,supplier,,,,,,supplier,supplier
+Recreation,Lakes and Ponds,Mean modeled threatened and endangered vertebrate species - southwest,supplier,,,,,,supplier,supplier
+Recreation,Lakes and Ponds,Mean small game species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Lakes and Ponds,Mean small game species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Lakes and Ponds,Mean total harvestable species richness: southeast,supplier,,,,,,supplier,supplier
+Recreation,Lakes and Ponds,Mean total harvestable species richness: southwest,supplier,,,,,,supplier,supplier
+Recreation,Lakes and Ponds,Mean total vertebrate species richness: southeast,supplier,,,,,,supplier,supplier
+Recreation,Lakes and Ponds,Mean total vertebrate species richness: southwest,supplier,,,,,,supplier,supplier
+Recreation,Lakes and Ponds,Mean waterfowl species richness: southeast,supplier,,,,,,supplier,supplier
+Recreation,Lakes and Ponds,Mean waterfowl species richness: southwest,supplier,,,,,,supplier,supplier
+Recreation,Lakes and Ponds,NIB bat species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Lakes and Ponds,NIB bat species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Lakes and Ponds,NIB big game species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Lakes and Ponds,NIB big game species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Lakes and Ponds,NIB bird species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Lakes and Ponds,NIB bird species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Lakes and Ponds,NIB fur bearer species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Lakes and Ponds,NIB fur bearer species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Lakes and Ponds,NIB modeled threatened and endangered vertebrate species - southeast,supplier,,,,,,supplier,supplier
+Recreation,Lakes and Ponds,NIB modeled threatened and endangered vertebrate species - southwest,supplier,,,,,,supplier,supplier
+Recreation,Lakes and Ponds,NIB small game species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Lakes and Ponds,NIB small game species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Lakes and Ponds,NIB total harvestable species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Lakes and Ponds,NIB total harvestable species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Lakes and Ponds,NIB total vertebrate species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Lakes and Ponds,NIB total vertebrate species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Lakes and Ponds,NIB waterfowl species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Lakes and Ponds,NIB waterfowl species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Lakes and Ponds,Number of aquatic animal species,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Lakes and Ponds,Number of aquatic plant species,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Lakes and Ponds,Number of dams,driver,,,driver,driver,driver,driver,driver
+Recreation,Lakes and Ponds,Oxidized nitrogen dry deposition (kg/ha),driver,,,driver,driver,driver,driver,driver
+Recreation,Lakes and Ponds,Oxidized nitrogen wet deposition (kg/ha),driver,,,driver,driver,driver,driver,driver
+Recreation,Lakes and Ponds,Percent forest and wood wetlands in buffer,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Lakes and Ponds,Percent forest in buffer,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Lakes and Ponds,Percent GAP status 1 and 2,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Lakes and Ponds,Percent GAP status 1 and 2 and 3,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Lakes and Ponds,Percent GAP status 3,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Lakes and Ponds,Percent impervious area,driver,,,driver,driver,driver,driver,driver
+Recreation,Lakes and Ponds,Percent IUCN status IA,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Lakes and Ponds,Percent IUCN status IB,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Lakes and Ponds,Percent IUCN status II,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Lakes and Ponds,Percent IUCN status III,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Lakes and Ponds,Percent IUCN status IV,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Lakes and Ponds,Percent IUCN status V,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Lakes and Ponds,Percent IUCN status VI,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Lakes and Ponds,Percent land with any IUCN status,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Lakes and Ponds,Percent large natural areas,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Lakes and Ponds,Percent medium natural areas,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Lakes and Ponds,Percent natural land cover in buffer,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Lakes and Ponds,Percent small natural areas,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Lakes and Ponds,Reduced nitrogen dry deposition (kg/ha),driver,,,driver,driver,driver,driver,driver
+Recreation,Lakes and Ponds,Reduced nitrogen wet deposition (kg/ha),driver,,,driver,driver,driver,driver,driver
+Recreation,Lakes and Ponds,Sulfur dry deposition (kg/ha),driver,,,driver,driver,driver,driver,driver
+Recreation,Lakes and Ponds,Sulfur wet deposition (kg/ha),driver,,,driver,driver,driver,driver,driver
+Recreation,Lakes and Ponds,Total nitrogen deposition,driver,,,driver,driver,driver,driver,driver
+Recreation,Lakes and Ponds,Total number of aquatic species,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Lakes and Ponds,Total oxidized nitrogen deposition (kg/ha),driver,,,driver,driver,driver,driver,driver
+Recreation,Lakes and Ponds,Total reduced nitrogen deposition (kg/ha),driver,,,driver,driver,driver,driver,driver
+Recreation,Lakes and Ponds,Total sulfur deposition (kg/ha),driver,,,driver,driver,driver,driver,driver
+Recreation,Open Oceans and Seas,Number of aquatic animal species,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Open Oceans and Seas,Number of aquatic plant species,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Open Oceans and Seas,Percent GAP status 1 and 2,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Open Oceans and Seas,Percent GAP status 1 and 2 and 3,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Open Oceans and Seas,Percent GAP status 3,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Open Oceans and Seas,Percent IUCN status IA,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Open Oceans and Seas,Percent IUCN status IB,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Open Oceans and Seas,Percent IUCN status II,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Open Oceans and Seas,Percent IUCN status III,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Open Oceans and Seas,Percent IUCN status IV,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Open Oceans and Seas,Percent IUCN status V,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Open Oceans and Seas,Percent IUCN status VI,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Open Oceans and Seas,Total number of aquatic species,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Rivers and Streams,Maximum bat species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Rivers and Streams,Maximum bat species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Rivers and Streams,Maximum big game species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Rivers and Streams,Maximum big game species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Rivers and Streams,Maximum bird species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Rivers and Streams,Maximum bird species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Rivers and Streams,Maximum fur bearer species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Rivers and Streams,Maximum fur bearer species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Rivers and Streams,Maximum modeled threatened and endangered vertebrate species - southeast,supplier,,,,,,supplier,supplier
+Recreation,Rivers and Streams,Maximum modeled threatened and endangered vertebrate species - southwest,supplier,,,,,,supplier,supplier
+Recreation,Rivers and Streams,Maximum small game species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Rivers and Streams,Maximum small game species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Rivers and Streams,Maximum total harvestable species richness: southeast,supplier,,,,,,supplier,supplier
+Recreation,Rivers and Streams,Maximum total harvestable species richness: southwest,supplier,,,,,,supplier,supplier
+Recreation,Rivers and Streams,Maximum total vertebrate species richness: southeast,supplier,,,,,,supplier,supplier
+Recreation,Rivers and Streams,Maximum total vertebrate species richness: southwest,supplier,,,,,,supplier,supplier
+Recreation,Rivers and Streams,Maximum waterfowl species richness: southeast,supplier,,,,,,supplier,supplier
+Recreation,Rivers and Streams,Maximum waterfowl species richness: southwest,supplier,,,,,,supplier,supplier
+Recreation,Rivers and Streams,Mean bat species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Rivers and Streams,Mean bat species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Rivers and Streams,Mean big game species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Rivers and Streams,Mean big game species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Rivers and Streams,Mean bird species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Rivers and Streams,Mean bird species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Rivers and Streams,Mean fur bearer species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Rivers and Streams,Mean fur bearer species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Rivers and Streams,Mean modeled threatened and endangered vertebrate species - southeast,supplier,,,,,,supplier,supplier
+Recreation,Rivers and Streams,Mean modeled threatened and endangered vertebrate species - southwest,supplier,,,,,,supplier,supplier
+Recreation,Rivers and Streams,Mean small game species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Rivers and Streams,Mean small game species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Rivers and Streams,Mean total harvestable species richness: southeast,supplier,,,,,,supplier,supplier
+Recreation,Rivers and Streams,Mean total harvestable species richness: southwest,supplier,,,,,,supplier,supplier
+Recreation,Rivers and Streams,Mean total vertebrate species richness: southeast,supplier,,,,,,supplier,supplier
+Recreation,Rivers and Streams,Mean total vertebrate species richness: southwest,supplier,,,,,,supplier,supplier
+Recreation,Rivers and Streams,Mean waterfowl species richness: southeast,supplier,,,,,,supplier,supplier
+Recreation,Rivers and Streams,Mean waterfowl species richness: southwest,supplier,,,,,,supplier,supplier
+Recreation,Rivers and Streams,NIB bat species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Rivers and Streams,NIB bat species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Rivers and Streams,NIB big game species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Rivers and Streams,NIB big game species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Rivers and Streams,NIB bird species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Rivers and Streams,NIB bird species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Rivers and Streams,NIB fur bearer species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Rivers and Streams,NIB fur bearer species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Rivers and Streams,NIB modeled threatened and endangered vertebrate species - southeast,supplier,,,,,,supplier,supplier
+Recreation,Rivers and Streams,NIB modeled threatened and endangered vertebrate species - southwest,supplier,,,,,,supplier,supplier
+Recreation,Rivers and Streams,NIB small game species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Rivers and Streams,NIB small game species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Rivers and Streams,NIB total harvestable species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Rivers and Streams,NIB total harvestable species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Rivers and Streams,NIB total vertebrate species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Rivers and Streams,NIB total vertebrate species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Rivers and Streams,NIB waterfowl species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Rivers and Streams,NIB waterfowl species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Rivers and Streams,Number of aquatic animal species,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Rivers and Streams,Number of aquatic plant species,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Rivers and Streams,Number of dams,driver,,,driver,driver,driver,driver,driver
+Recreation,Rivers and Streams,Oxidized nitrogen dry deposition (kg/ha),driver,,,driver,driver,driver,driver,driver
+Recreation,Rivers and Streams,Oxidized nitrogen wet deposition (kg/ha),driver,,,driver,driver,driver,driver,driver
+Recreation,Rivers and Streams,Percent forest and wood wetlands in buffer,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Rivers and Streams,Percent forest in buffer,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Rivers and Streams,Percent GAP status 1 and 2,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Rivers and Streams,Percent GAP status 1 and 2 and 3,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Rivers and Streams,Percent GAP status 3,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Rivers and Streams,Percent impervious area,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Rivers and Streams,Percent IUCN status IA,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Rivers and Streams,Percent IUCN status IB,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Rivers and Streams,Percent IUCN status II,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Rivers and Streams,Percent IUCN status III,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Rivers and Streams,Percent IUCN status IV,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Rivers and Streams,Percent IUCN status V,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Rivers and Streams,Percent IUCN status VI,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Rivers and Streams,Percent land with any IUCN status,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Rivers and Streams,Percent large natural areas,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Rivers and Streams,Percent medium natural areas,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Rivers and Streams,Percent natural land cover in buffer,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Rivers and Streams,Percent rare ecosystem,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Rivers and Streams,Percent rare ecosystem protected,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Rivers and Streams,Percent small natural areas,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Rivers and Streams,Reduced nitrogen dry deposition (kg/ha),driver,,,driver,driver,driver,driver,driver
+Recreation,Rivers and Streams,Reduced nitrogen wet deposition (kg/ha),driver,,,driver,driver,driver,driver,driver
+Recreation,Rivers and Streams,Stream density (km/km2),driver,,,driver,driver,driver,driver,driver
+Recreation,Rivers and Streams,Stream length (km),driver,,,driver,driver,driver,driver,driver
+Recreation,Rivers and Streams,Sulfur dry deposition (kg/ha),driver,,,driver,driver,driver,driver,driver
+Recreation,Rivers and Streams,Sulfur wet deposition (kg/ha),driver,,,driver,driver,driver,driver,driver
+Recreation,Rivers and Streams,Total nitrogen deposition,driver,,,driver,driver,driver,driver,driver
+Recreation,Rivers and Streams,Total number of aquatic species,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Rivers and Streams,Total oxidized nitrogen deposition (kg/ha),driver,,,driver,driver,driver,driver,driver
+Recreation,Rivers and Streams,Total reduced nitrogen deposition (kg/ha),driver,,,driver,driver,driver,driver,driver
+Recreation,Rivers and Streams,Total sulfur deposition (kg/ha),driver,,,driver,driver,driver,driver,driver
+Recreation,Scrublands / Shrublands,Maximum bat species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Scrublands / Shrublands,Maximum bat species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Scrublands / Shrublands,Maximum big game species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Scrublands / Shrublands,Maximum big game species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Scrublands / Shrublands,Maximum bird species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Scrublands / Shrublands,Maximum bird species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Scrublands / Shrublands,Maximum fur bearer species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Scrublands / Shrublands,Maximum fur bearer species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Scrublands / Shrublands,Maximum land cover diversity - southeast,supplier,,,,,,supplier,supplier
+Recreation,Scrublands / Shrublands,Maximum land cover diversity - southwest,supplier,,,,,,supplier,supplier
+Recreation,Scrublands / Shrublands,Maximum modeled threatened and endangered vertebrate species - southeast,supplier,,,,,,supplier,supplier
+Recreation,Scrublands / Shrublands,Maximum modeled threatened and endangered vertebrate species - southwest,supplier,,,,,,supplier,supplier
+Recreation,Scrublands / Shrublands,Maximum small game species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Scrublands / Shrublands,Maximum small game species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Scrublands / Shrublands,Maximum total harvestable species richness: southeast,supplier,,,,,,supplier,supplier
+Recreation,Scrublands / Shrublands,Maximum total harvestable species richness: southwest,supplier,,,,,,supplier,supplier
+Recreation,Scrublands / Shrublands,Maximum total vertebrate species richness: southeast,supplier,,,,,,supplier,supplier
+Recreation,Scrublands / Shrublands,Maximum total vertebrate species richness: southwest,supplier,,,,,,supplier,supplier
+Recreation,Scrublands / Shrublands,Maximum waterfowl species richness: southeast,supplier,,,,,,supplier,supplier
+Recreation,Scrublands / Shrublands,Maximum waterfowl species richness: southwest,supplier,,,,,,supplier,supplier
+Recreation,Scrublands / Shrublands,Mean bat species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Scrublands / Shrublands,Mean bat species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Scrublands / Shrublands,Mean big game species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Scrublands / Shrublands,Mean big game species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Scrublands / Shrublands,Mean bird species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Scrublands / Shrublands,Mean bird species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Scrublands / Shrublands,Mean fur bearer species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Scrublands / Shrublands,Mean fur bearer species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Scrublands / Shrublands,Mean land cover diversity - southeast,supplier,,,,,,supplier,supplier
+Recreation,Scrublands / Shrublands,Mean land cover diversity - southwest,supplier,,,,,,supplier,supplier
+Recreation,Scrublands / Shrublands,Mean modeled threatened and endangered vertebrate species - southeast,supplier,,,,,,supplier,supplier
+Recreation,Scrublands / Shrublands,Mean modeled threatened and endangered vertebrate species - southwest,supplier,,,,,,supplier,supplier
+Recreation,Scrublands / Shrublands,Mean small game species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Scrublands / Shrublands,Mean small game species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Scrublands / Shrublands,Mean total harvestable species richness: southeast,supplier,,,,,,supplier,supplier
+Recreation,Scrublands / Shrublands,Mean total harvestable species richness: southwest,supplier,,,,,,supplier,supplier
+Recreation,Scrublands / Shrublands,Mean total vertebrate species richness: southeast,supplier,,,,,,supplier,supplier
+Recreation,Scrublands / Shrublands,Mean total vertebrate species richness: southwest,supplier,,,,,,supplier,supplier
+Recreation,Scrublands / Shrublands,Mean waterfowl species richness: southeast,supplier,,,,,,supplier,supplier
+Recreation,Scrublands / Shrublands,Mean waterfowl species richness: southwest,supplier,,,,,,supplier,supplier
+Recreation,Scrublands / Shrublands,NIB bat species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Scrublands / Shrublands,NIB bat species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Scrublands / Shrublands,NIB big game species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Scrublands / Shrublands,NIB big game species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Scrublands / Shrublands,NIB bird species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Scrublands / Shrublands,NIB bird species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Scrublands / Shrublands,NIB fur bearer species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Scrublands / Shrublands,NIB fur bearer species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Scrublands / Shrublands,NIB land cover diversity - southeast,supplier,,,,,,supplier,supplier
+Recreation,Scrublands / Shrublands,NIB land cover diversity - southwest,supplier,,,,,,supplier,supplier
+Recreation,Scrublands / Shrublands,NIB modeled threatened and endangered vertebrate species - southeast,supplier,,,,,,supplier,supplier
+Recreation,Scrublands / Shrublands,NIB modeled threatened and endangered vertebrate species - southwest,supplier,,,,,,supplier,supplier
+Recreation,Scrublands / Shrublands,NIB small game species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Scrublands / Shrublands,NIB small game species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Scrublands / Shrublands,NIB total harvestable species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Scrublands / Shrublands,NIB total harvestable species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Scrublands / Shrublands,NIB total vertebrate species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Scrublands / Shrublands,NIB total vertebrate species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Scrublands / Shrublands,NIB waterfowl species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Scrublands / Shrublands,NIB waterfowl species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Scrublands / Shrublands,Number of terrestrial animal species,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Scrublands / Shrublands,Percent forest,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Scrublands / Shrublands,Percent forest and wood wetlands in buffer,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Scrublands / Shrublands,Percent forest and woody wetlands,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Scrublands / Shrublands,Percent forest in buffer,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Scrublands / Shrublands,Percent GAP status 1 and 2,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Scrublands / Shrublands,Percent GAP status 1 and 2 and 3,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Scrublands / Shrublands,Percent GAP status 3,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Scrublands / Shrublands,Percent IUCN status IA,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Scrublands / Shrublands,Percent IUCN status IB,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Scrublands / Shrublands,Percent IUCN status II,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Scrublands / Shrublands,Percent IUCN status III,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Scrublands / Shrublands,Percent IUCN status IV,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Scrublands / Shrublands,Percent IUCN status V,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Scrublands / Shrublands,Percent IUCN status VI,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Scrublands / Shrublands,Percent land with any IUCN status,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Scrublands / Shrublands,Percent large natural areas,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Scrublands / Shrublands,Percent medium natural areas,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Scrublands / Shrublands,Percent natural land cover,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Scrublands / Shrublands,Percent natural land cover in buffer,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Scrublands / Shrublands,Percent rare ecosystem,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Scrublands / Shrublands,Percent rare ecosystem protected,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Scrublands / Shrublands,Percent small natural areas,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Scrublands / Shrublands,Total number of terrestrial species,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Tundra,Number of terrestrial animal species,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Tundra,Percent GAP status 1 and 2,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Tundra,Percent GAP status 1 and 2 and 3,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Tundra,Percent GAP status 3,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Tundra,Percent IUCN status IA,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Tundra,Percent IUCN status IB,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Tundra,Percent IUCN status II,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Tundra,Percent IUCN status III,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Tundra,Percent IUCN status IV,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Tundra,Percent IUCN status V,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Tundra,Percent IUCN status VI,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Tundra,Percent land with any IUCN status,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Tundra,Percent large natural areas,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Tundra,Percent medium natural areas,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Tundra,Percent natural land cover,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Tundra,Percent natural land cover in buffer,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Tundra,Percent rare ecosystem,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Tundra,Percent rare ecosystem protected,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Tundra,Percent small natural areas,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Tundra,Total number of terrestrial species,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Wetlands,Maximum bat species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Wetlands,Maximum bat species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Wetlands,Maximum big game species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Wetlands,Maximum big game species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Wetlands,Maximum bird species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Wetlands,Maximum bird species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Wetlands,Maximum fur bearer species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Wetlands,Maximum fur bearer species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Wetlands,Maximum land cover diversity - southeast,supplier,,,,,,supplier,supplier
+Recreation,Wetlands,Maximum land cover diversity - southwest,supplier,,,,,,supplier,supplier
+Recreation,Wetlands,Maximum modeled threatened and endangered vertebrate species - southeast,supplier,,,,,,supplier,supplier
+Recreation,Wetlands,Maximum modeled threatened and endangered vertebrate species - southwest,supplier,,,,,,supplier,supplier
+Recreation,Wetlands,Maximum small game species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Wetlands,Maximum small game species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Wetlands,Maximum total harvestable species richness: southeast,supplier,,,,,,supplier,supplier
+Recreation,Wetlands,Maximum total harvestable species richness: southwest,supplier,,,,,,supplier,supplier
+Recreation,Wetlands,Maximum total vertebrate species richness: southeast,supplier,,,,,,supplier,supplier
+Recreation,Wetlands,Maximum total vertebrate species richness: southwest,supplier,,,,,,supplier,supplier
+Recreation,Wetlands,Maximum waterfowl species richness: southeast,supplier,,,,,,supplier,supplier
+Recreation,Wetlands,Maximum waterfowl species richness: southwest,supplier,,,,,,supplier,supplier
+Recreation,Wetlands,Mean bat species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Wetlands,Mean bat species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Wetlands,Mean big game species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Wetlands,Mean big game species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Wetlands,Mean bird species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Wetlands,Mean bird species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Wetlands,Mean fur bearer species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Wetlands,Mean fur bearer species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Wetlands,Mean land cover diversity - southeast,supplier,,,,,,supplier,supplier
+Recreation,Wetlands,Mean land cover diversity - southwest,supplier,,,,,,supplier,supplier
+Recreation,Wetlands,Mean modeled threatened and endangered vertebrate species - southeast,supplier,,,,,,supplier,supplier
+Recreation,Wetlands,Mean modeled threatened and endangered vertebrate species - southwest,supplier,,,,,,supplier,supplier
+Recreation,Wetlands,Mean small game species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Wetlands,Mean small game species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Wetlands,Mean total harvestable species richness: southeast,supplier,,,,,,supplier,supplier
+Recreation,Wetlands,Mean total harvestable species richness: southwest,supplier,,,,,,supplier,supplier
+Recreation,Wetlands,Mean total vertebrate species richness: southeast,supplier,,,,,,supplier,supplier
+Recreation,Wetlands,Mean total vertebrate species richness: southwest,supplier,,,,,,supplier,supplier
+Recreation,Wetlands,Mean waterfowl species richness: southeast,supplier,,,,,,supplier,supplier
+Recreation,Wetlands,Mean waterfowl species richness: southwest,supplier,,,,,,supplier,supplier
+Recreation,Wetlands,NIB bat species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Wetlands,NIB bat species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Wetlands,NIB big game species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Wetlands,NIB big game species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Wetlands,NIB bird species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Wetlands,NIB bird species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Wetlands,NIB fur bearer species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Wetlands,NIB fur bearer species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Wetlands,NIB land cover diversity - southeast,supplier,,,,,,supplier,supplier
+Recreation,Wetlands,NIB land cover diversity - southwest,supplier,,,,,,supplier,supplier
+Recreation,Wetlands,NIB modeled threatened and endangered vertebrate species - southeast,supplier,,,,,,supplier,supplier
+Recreation,Wetlands,NIB modeled threatened and endangered vertebrate species - southwest,supplier,,,,,,supplier,supplier
+Recreation,Wetlands,NIB small game species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Wetlands,NIB small game species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Wetlands,NIB total harvestable species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Wetlands,NIB total harvestable species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Wetlands,NIB total vertebrate species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Wetlands,NIB total vertebrate species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Wetlands,NIB waterfowl species richness - southeast,supplier,,,,,,supplier,supplier
+Recreation,Wetlands,NIB waterfowl species richness - southwest,supplier,,,,,,supplier,supplier
+Recreation,Wetlands,Number of aquatic animal species,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Wetlands,Number of aquatic plant species,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Wetlands,Number of terrestrial animal species,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Wetlands,Oxidized nitrogen dry deposition (kg/ha),driver,,,driver,driver,driver,driver,driver
+Recreation,Wetlands,Oxidized nitrogen wet deposition (kg/ha),driver,,,driver,driver,driver,driver,driver
+Recreation,Wetlands,Percent cropland,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Wetlands,Percent emergent herbaceous wetlands,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Wetlands,Percent forest and wood wetlands in buffer,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Wetlands,Percent forest and woody wetlands,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Wetlands,Percent GAP status 1 and 2,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Wetlands,Percent GAP status 1 and 2 and 3,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Wetlands,Percent GAP status 3,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Wetlands,Percent IUCN status IA,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Wetlands,Percent IUCN status IB,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Wetlands,Percent IUCN status II,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Wetlands,Percent IUCN status III,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Wetlands,Percent IUCN status IV,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Wetlands,Percent IUCN status V,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Wetlands,Percent IUCN status VI,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Wetlands,Percent land with any IUCN status,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Wetlands,Percent large natural areas,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Wetlands,Percent medium natural areas,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Wetlands,Percent natural land cover,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Wetlands,Percent natural land cover in buffer,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Wetlands,Percent potentially restorable wetlands,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Wetlands,Percent rare ecosystem,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Wetlands,Percent rare ecosystem protected,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Wetlands,Percent small natural areas,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Wetlands,Percent wetlands,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Wetlands,Reduced nitrogen dry deposition (kg/ha),driver,,,driver,driver,driver,driver,driver
+Recreation,Wetlands,Reduced nitrogen wet deposition (kg/ha),driver,,,driver,driver,driver,driver,driver
+Recreation,Wetlands,Sulfur dry deposition (kg/ha),driver,,,driver,driver,driver,driver,driver
+Recreation,Wetlands,Sulfur wet deposition (kg/ha),driver,,,driver,driver,driver,driver,driver
+Recreation,Wetlands,Total nitrogen deposition,driver,,,driver,driver,driver,driver,driver
+Recreation,Wetlands,Total number of aquatic species,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Wetlands,Total number of terrestrial species,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Wetlands,Total number of wetland species,supplier,,,supplier,supplier,supplier,supplier,supplier
+Recreation,Wetlands,Total oxidized nitrogen deposition (kg/ha),driver,,,driver,driver,driver,driver,driver
+Recreation,Wetlands,Total reduced nitrogen deposition (kg/ha),driver,,,driver,driver,driver,driver,driver
+Recreation,Wetlands,Total sulfur deposition (kg/ha),driver,,,driver,driver,driver,driver,driver
